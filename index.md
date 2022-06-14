@@ -1,7 +1,10 @@
 <!-- ## Humana maps
 
+
 <!-- <iframe src="ihap.html" height="500" width="500"></iframe> -->
  -->
+title: Sample Map Website
+description: This website demonstrates how to easily publish and display an interactive map made 
 
 ```markdown
 ## IHAP members
