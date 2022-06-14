@@ -1,5 +1,5 @@
-
-<iframe src="ihap.html" height="500" width="500"></iframe>
+## IHAP members
+<iframe src="ihap.html" height="300" width="500"></iframe>
 
 
 
