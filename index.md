@@ -1,6 +1,6 @@
 # IHAP members
 
-<iframe src="ihap.html" height="300" width="500"></iframe>
+<iframe src="ihap.html" height="400" width="600"></iframe>
 
 
 
