@@ -1,6 +1,6 @@
 ## Humana maps
 
-<iframe src="ihap.html" height="100" width="100"></iframe>
+<iframe src="ihap.html" height="500" width="500"></iframe>
 
 <!-- ## Welcome to GitHub Pages
 
