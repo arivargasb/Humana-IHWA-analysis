@@ -1,5 +1,5 @@
 ---
-layout: base
+layout: default
 ---
 
 # Distribution of IHAP levels
