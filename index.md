@@ -1,6 +1,6 @@
----
+<!-- ---
 layout: base
----
+--- -->
 
 # Distribution of IHAP levels
 
