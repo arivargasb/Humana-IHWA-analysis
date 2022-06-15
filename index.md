@@ -1,6 +1,6 @@
 # Distribution of IHAP levels
 
-<iframe src="ihap.html" height="400" width="600"></iframe>
+<iframe src="IHAPlevel.html" height="400" width="600"></iframe>
 
 
 
