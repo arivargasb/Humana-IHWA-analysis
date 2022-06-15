@@ -1,3 +1,7 @@
+---
+layout: base
+---
+
 # Distribution of IHAP levels
 
 <iframe src="IHAPlevel.html" height="400" width="600"></iframe>
