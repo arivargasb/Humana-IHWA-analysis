@@ -13,8 +13,7 @@ layout: default
 <iframe src="IHAPlevel.html" height="400" width="600"></iframe>
 
 
-<main id="content" class="main-content" role="main">
-      <h1 id="hello-world">hello world</h1>
+
 
 <!-- ## Welcome to GitHub Pages
 
