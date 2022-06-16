@@ -6,12 +6,12 @@ layout: default
 
 <div class="row">
   <div class="column">
-    <h2>Distribution of IHAP levels</h2>
+    <h4>Distribution of IHAP levels</h4>
    <iframe src="IHAPlevel.html" height=200 width=300></iframe>
     <p>Some text..</p>
   </div>
   <div class="column">
-    <h2>Column 2</h2>
+    <h4>Column 2</h4>
        <iframe src="IHAPlevel.html" height=200 width=300></iframe>
 <!--     <p>Some text..</p> -->
   </div>
