@@ -1,6 +1,9 @@
 ---
 layout: default
 ---
+<li class="masthead__menu-item">
+  <a href="https://arivargasb.github.io/Humana-Maps/Page-2.html">Page 2</a>
+</li>
 
 <h2>Two Equal Columns</h2>
 
