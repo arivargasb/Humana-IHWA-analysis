@@ -2,8 +2,14 @@
 layout: default
 ---
 
-# Distribution of IHAP levels
+<div class="begin-examples"></div>
 
+## Distribution of IHAP levels
+### Distribution of IHAP levels 1
+
+<div class="end-examples"></div>
+
+## Distribution of IHAP levels
 <iframe src="IHAPlevel.html" height="400" width="600"></iframe>
 
 
