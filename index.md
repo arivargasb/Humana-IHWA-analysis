@@ -4,10 +4,12 @@ layout: default
 
 <div class="begin-examples"></div>
 
-## Distribution of IHAP levels
+<h2> Distribution of IHAP levels</h2>
 ### Distribution of IHAP levels 1
 dwedew
+<h2> Distribution of IHAP levels2</h2>
 ### Distribution of IHAP levels 2
+
 dwedew
 <div class="end-examples"></div>
 
