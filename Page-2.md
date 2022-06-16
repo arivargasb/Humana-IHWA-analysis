@@ -1,5 +1,7 @@
 ---
 layout: default
+title: page 2
+filename: Page-2.md
 ---
 
 <h2>Two Equal Columns</h2>
