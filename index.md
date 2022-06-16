@@ -2,19 +2,20 @@
 layout: default
 ---
 
-<div class="begin-examples"></div>
+<h2>Two Equal Columns</h2>
 
-<h2> Distribution of IHAP levels</h2>
-### Distribution of IHAP levels 1
-dwedew
-<h2> Distribution of IHAP levels2</h2>
-### Distribution of IHAP levels 2
+<div class="row">
+  <div class="column" style="background-color:#aaa;">
+    <h2>Distribution of IHAP levels</h2>
+   <iframe src="IHAPlevel.html" height="400" width="600"></iframe>
+    <p>Some text..</p>
+  </div>
+  <div class="column" style="background-color:#bbb;">
+    <h2>Column 2</h2>
+    <p>Some text..</p>
+  </div>
+</div>
 
-dwedew
-<div class="end-examples"></div>
-
-## Distribution of IHAP levels
-<iframe src="IHAPlevel.html" height="400" width="600"></iframe>
 
 
 
