@@ -43,9 +43,9 @@ layout: default
   </div>
   <div class="column">
 <!--     <h4><b>Type of plan</b></h4> -->
-    &nbsp
-    &nbsp
-    &nbsp
+&nbsp;
+&nbsp;
+&nbsp;
     <p>[Add interpretation here]</p>
   </div>
 </div>
