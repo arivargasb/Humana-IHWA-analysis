@@ -39,7 +39,7 @@ layout: default
   <div class="column">
     <h4>IHAP levels</h4>
    <iframe src="IHAPlevel]html" height=260 width=300></iframe>
-<!--     <p>[short interpretation goes here]</p> -->
+    <p>[short interpretation goes here]</p>
   </div>
   <div class="column">
 <!--     <h4>Type of plan</h4> -->
