@@ -24,12 +24,12 @@ layout: default
 
 <div class="row">
   <div class="column">
-    <h4><b>Type of membership</b></h4>
+    <h43><b>Type of membership</b></h3>
    <iframe src="maps/MembershipType.html" height=260 width=300></iframe>
 <!--     <p>Interpretation..</p> -->
   </div>
   <div class="column">
-    <h4><b>Type of plan</b></h4>
+    <h3><b>Type of plan</b></h3>
        <iframe src="maps/PlanType.html" height=260 width=300></iframe>
 <!--     <p>Some text..</p> -->
   </div>
@@ -37,12 +37,12 @@ layout: default
 
 <div class="row">
   <div class="column">
-    <h4><b>IHAP levels</b></h4>
+    <h3><b>IHAP levels</b></h3>
    <iframe src="maps/IHAPlevel.html" height=260 width=300></iframe>
 <!--     <p>text</p> -->
   </div>
   <div class="column">
-<!--     <h4><b>Type of plan</b></h4> -->
+<!--     <h3><b>Type of plan</b></h3> -->
 &nbsp;
 &nbsp;
 &nbsp;
