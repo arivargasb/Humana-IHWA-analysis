@@ -12,13 +12,15 @@ layout: default
       <i class="fa fa-caret-down"></i>
     </button>
     <div class="dropdown-content">
-      <a href="https://arivargasb.github.io/Humana-Maps/Page-2.html"><span style="font-size:12.0pt">Page 2</span></a>
-      <a href="#"><span style="font-size:12.0pt">Link 2</span></a>
-      <a href="#"><span style="font-size:12.0pt">Link 3</span></a>
+      <a href="https://arivargasb.github.io/Humana-Maps/Page-2.html"><span style="font-size:10.0pt">Page 2</span></a>
+      <a href="#"><span style="font-size:10.0pt">Link 2</span></a>
+      <a href="#"><span style="font-size:10.0pt">Link 3</span></a>
     </div>
   </div> 
 </div>
-
+&nbsp;
+&nbsp;
+&nbsp;
 
 <h2>Type of Plan and Membership per Medicare Region</h2>
 
