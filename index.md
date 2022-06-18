@@ -8,13 +8,13 @@ layout: default
 <!--   <a href="#home">Home</a>
   <a href="#news">News</a> -->
   <div class="dropdown">
-    <button class="dropbtn">Dropdown 
+    <button class="dropbtn">Menu 
       <i class="fa fa-caret-down"></i>
     </button>
     <div class="dropdown-content">
-      <a href="https://arivargasb.github.io/Humana-Maps/Page-2.html">Page 2</a>
-      <a href="#">Link 2</a>
-      <a href="#">Link 3</a>
+      <a href="https://arivargasb.github.io/Humana-Maps/Page-2.html"><span style="font-size:12.0pt">Page 2</span></a>
+      <a href="#"><span style="font-size:12.0pt">Link 2</span></a>
+      <a href="#"><span style="font-size:12.0pt">Link 3</span></a>
     </div>
   </div> 
 </div>
