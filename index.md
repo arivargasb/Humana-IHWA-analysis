@@ -24,7 +24,7 @@ layout: default
 
 <div class="row">
   <div class="column">
-    <h43><b>Type of membership</b></h3>
+    <h3><b>Type of membership</b></h3>
    <iframe src="maps/MembershipType.html" height=260 width=300></iframe>
 <!--     <p>Interpretation..</p> -->
   </div>
