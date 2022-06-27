@@ -21,7 +21,7 @@ layout: default
 &nbsp;
 &nbsp;
 &nbsp;
-
+<div class="main" id="section1">
 <h2>Type of Plan and Membership per Medicare Region</h2>
 
 <div class="row">
@@ -51,5 +51,43 @@ layout: default
     <p>[Add interpretation here]</p>
   </div>
 </div>
+</div>
+
+<div class="main" id="section2">
+<h2>IHWA per Medicare Region</h2>
+
+<div class="row">
+  <div class="column">
+    <h3><b>Type of membership</b></h3>
+   <iframe src="maps/MembershipType.html" height=260 width=300></iframe>
+<!--     <p>Interpretation..</p> -->
+  </div>
+  <div class="column">
+    <h3><b>Type of plan</b></h3>
+       <iframe src="maps/PlanType.html" height=260 width=300></iframe>
+<!--     <p>Some text..</p> -->
+  </div>
+</div>
+  <div class="row">
+  <div class="column">
+    <h3><b>Type of membership</b></h3>
+   <iframe src="maps/MembershipType.html" height=260 width=300></iframe>
+<!--     <p>Interpretation..</p> -->
+  </div>
+  <div class="column">
+    <h3><b>Type of plan</b></h3>
+       <iframe src="maps/PlanType.html" height=260 width=300></iframe>
+<!--     <p>Some text..</p> -->
+  </div>
+</div>
+</div>
 
 
+<div class="main" id="section3">
+<h2>IHWA per Sociodemographic</h2>
+    <h3><b>Racial group</b></h3>
+   <iframe src="IHWA_race.jpg" height=260 width=300></iframe>
+    <h3><b>Socioeconomic class</b></h3>
+   <iframe src="IHWA_income.jpg" height=260 width=300></iframe>
+  
+ </div>
