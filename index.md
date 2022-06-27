@@ -96,8 +96,8 @@ layout: default
 <div class="main" id="section3">
 <h2>IHWA by Sociodemographic</h2>
     <h3><b><i>Racial group</i></b></h3>
-   <iframe src="charts/IHWA_race.jpg" height=260 width=300></iframe>
+   <iframe src="charts/IHWA_race.jpg" height=510 width=710></iframe>
     <h3><b><i>Socioeconomic class</i></b></h3>
-   <iframe src="charts/IHWA_income.jpg" height=260 width=300></iframe>
+   <iframe src="charts/IHWA_income.jpg" height=510 width=710></iframe>
   
  </div>
