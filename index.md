@@ -42,7 +42,7 @@ layout: default
    <iframe src="maps/MembershipType.html" height=260 width=300></iframe>
   </div>
   <div class="column">
-    <h3><b><i>Type of plan/i></b></h3>
+    <h3><b><i>Type of plan</i></b></h3>
        <iframe src="maps/PlanType.html" height=260 width=300></iframe>
   </div>
 </div>
