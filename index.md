@@ -3,14 +3,21 @@ layout: default
 ---
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 
 <!-- <div class="navbar"> -->
-  <div class="container">
+
+<div class="w3-bar w3-light-grey">
+  <a href="#section1" class="w3-bar-item w3-button">Type of Plan and Membership\nper Medicare Region</a>
+  <a href="#section2" class="w3-bar-item w3-button">IHWA per Medicare Region</a>
+  <a href="#section3" class="w3-bar-item w3-button">IHWA per Sociodemographic</a>
+</div>
+
+<div class="container">
     <div class="topnav">
       <a href="#section1">Section 1</a>
       <a href="#section2">Section 2</a>
       <a href="#section3">Section 3</a>
-      <a href="#about">About</a>
     </div>
   </div>  
   
