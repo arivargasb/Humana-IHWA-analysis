@@ -4,10 +4,18 @@ layout: default
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
-<div class="navbar">
-<!--   <a href="#home">Home</a>
-  <a href="#news">News</a> -->
-  <div class="dropdown">
+<!-- <div class="navbar"> -->
+  <div class="container">
+    <div class="topnav">
+      <a href="#section1">Section 1</a>
+      <a href="#section2">Section 2</a>
+      <a href="#section3">Section 3</a>
+      <a href="#about">About</a>
+    </div>
+  </div>  
+  
+  
+<!--   <div class="dropdown">
     <button class="dropbtn">Menu 
       <i class="fa fa-caret-down"></i>
     </button>
@@ -17,7 +25,7 @@ layout: default
       <a href="#"><span style="font-size:10.0pt">Link 3</span></a>
     </div>
   </div> 
-</div>
+</div> -->
 &nbsp;
 &nbsp;
 &nbsp;
@@ -86,8 +94,8 @@ layout: default
 <div class="main" id="section3">
 <h2>IHWA per Sociodemographic</h2>
     <h3><b>Racial group</b></h3>
-   <iframe src="IHWA_race.jpg" height=260 width=300></iframe>
+   <iframe src="charts/IHWA_race.jpg" height=260 width=300></iframe>
     <h3><b>Socioeconomic class</b></h3>
-   <iframe src="IHWA_income.jpg" height=260 width=300></iframe>
+   <iframe src="charts/IHWA_income.jpg" height=260 width=300></iframe>
   
  </div>
