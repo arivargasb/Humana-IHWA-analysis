@@ -6,12 +6,12 @@ layout: default
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 
 <div class="w3-bar w3-border w3-card w3-grey">  
-  <a href="#section1" class="w3-bar-item w3-button w3-border-right"><small><strong>Plan & Membership Type by Region</strong></small></a>
-  <a href="#section2" class="w3-bar-item w3-button w3-border-right"><small><strong>IHWA by Region</strong></small></a>
-  <a href="#section3" class="w3-bar-item w3-button"><small><strong>IHWA by Sociodemographic</strong></small></a>
+  <a href="#section1" class="w3-bar-item w3-button w3-border-right" style="font-size:18px; border-radius: 15px;">Plan & Membership Type by Region</a>
+  <a href="#section2" class="w3-bar-item w3-button w3-border-right" style="font-size:18px; border-radius: 15px;">IHWA by Region</a>
+  <a href="#section3" class="w3-bar-item w3-button" style="font-size:18px; border-radius: 15px;">IHWA by Sociodemographic</a>
 </div>
 
-<div class="w3-container w3-light-gray">
+<!-- <div class="w3-container w3-light-gray"> -->
   <p>[Add intro (and takeaways?) here]</p>
   &nbsp;
 &nbsp;
@@ -20,7 +20,7 @@ layout: default
 &nbsp;
 &nbsp;
 
-</div>
+<!-- </div> -->
 &nbsp;
 &nbsp;
 &nbsp;
@@ -113,15 +113,10 @@ layout: default
 
 <div class="main" id="section3">
 <h2><small>IHWA by Sociodemographic</small></h2>
-    <h3><b><i><small>Correlation between IHWA indicators and the proportion of population\nfrom each racial groups per zip code</small></i></b></h3>
+    <h3><b><i><very-small>Correlation between IHWA indicators and the proportion of population from each racial group at each zip code</very-small></i></b></h3>
    <iframe src="charts/IHWA_race.jpg" height=400 width=600 ></iframe>
-    <h3><b><i><small>IHWA indicators per socioeconomic class\nat the zip code level</small></i></b></h3>
+    <h3><b><i><very-small>IHWA indicators per socioeconomic class at each zip code</very-small></i></b></h3>
    <iframe src="charts/IHWA_income.jpg" height=400 width=600 ></iframe>
-  <style type="text/css">
-    body
-    {
-        background:none transparent;
-    }
-</style>
+
   
  </div>
