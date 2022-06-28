@@ -5,10 +5,10 @@ layout: default
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 
-<div class="w3-bar w3-border w3-card w3-grey" style="border-radius: 7px; background: #f2f4f5;">  
-  <a href="#section1" class="w3-bar-item w3-button w3-border-right" style="font-size:12px; background: #f2f4f5;">Plan & Membership Type by Region</a>
-  <a href="#section2" class="w3-bar-item w3-button w3-border-right" style="font-size:12px; background: #f2f4f5;">IHWA by Region</a>
-  <a href="#section3" class="w3-bar-item w3-button" style="font-size:12px; background: #f2f4f5;">IHWA by Sociodemographic</a>
+<div class="w3-bar w3-border w3-card " style="border-radius: 7px; background: #f2f4f5;">  
+  <a href="#section1" class="w3-bar-item w3-button w3-border-right" style="font-size:13px; background: #f2f4f5;">Plan & Membership Type by Region</a>
+  <a href="#section2" class="w3-bar-item w3-button w3-border-right" style="font-size:13px; background: #f2f4f5;">IHWA by Region</a>
+  <a href="#section3" class="w3-bar-item w3-button" style="font-size:13px; background: #f2f4f5;">IHWA by Sociodemographic</a>
 </div>
 
 <!-- <div class="w3-container w3-light-gray"> -->
