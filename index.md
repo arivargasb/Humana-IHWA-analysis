@@ -5,6 +5,11 @@ layout: default
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 
+<div id="title">
+  <link rel="humana logo" href="https://arivargasb.github.io/Humana-Maps/images/humanaLogo.png">
+  <h2><small><em>IHWA Analysis</em></small></h2>          
+</div>
+
 <div class="w3-bar w3-border w3-card " style="border-radius: 7px;">  
   <a href="#section1" class="w3-bar-item w3-button w3-border-right" style="font-size:12px; color:white">Plan & Membership Type by Region</a>
   <a href="#section2" class="w3-bar-item w3-button w3-border-right" style="font-size:12px; color:white">IHWA by Region</a>
