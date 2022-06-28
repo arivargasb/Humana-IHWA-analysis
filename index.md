@@ -6,27 +6,20 @@ layout: default
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 
 <div class="w3-bar w3-border w3-card " style="border-radius: 7px;">  
-  <a href="#section1" class="w3-bar-item w3-button w3-border-right" style="font-size:12px; background: #dedfe0;">Plan & Membership Type by Region</a>
-  <a href="#section2" class="w3-bar-item w3-button w3-border-right" style="font-size:12px; background: #dedfe0;">IHWA by Region</a>
-  <a href="#section3" class="w3-bar-item w3-button" style="font-size:12px; background: #dedfe0;">IHWA by Sociodemographic</a>
+  <a href="#section1" class="w3-bar-item w3-button w3-border-right" style="font-size:12px; color:white">Plan & Membership Type by Region</a>
+  <a href="#section2" class="w3-bar-item w3-button w3-border-right" style="font-size:12px; color:white">IHWA by Region</a>
+  <a href="#section3" class="w3-bar-item w3-button" style="font-size:12px;color:white">IHWA by Sociodemographic</a>
 </div>
 
 <!-- <div class="w3-container w3-light-gray"> -->
- <br></br>
- <br></br>
+ <br>
+ <br>
   <p>[Add intro (and takeaways?) here]</p>
- <br></br>
- <br></br>
- <br></br>
- <br></br>
+ <br>
+ <br>
+ <br>
+ <br>
   <!-- </div> -->
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-
 <div class="main" id="section1">
 <h2><small>Plan and Membership Type by Medicare Region</small></h2>
     
@@ -47,17 +40,17 @@ layout: default
    <iframe src="maps/IHAPlevel.html" height=260 width=300></iframe>
   </div>
   <div class="column">
- <br></br>
- <br></br>
+ <br>
+ <br>
 
     <p>[Add interpretation here]</p>
   </div>
 </div>
 </div>
- <br></br>
- <br></br>
- <br></br>
- <br></br>
+ <br>
+ <br>
+ <br>
+ <br>
 
 <div class="main" id="section2">
 <h2><small>IHWA by Medicare Region</small></h2>
@@ -84,10 +77,10 @@ layout: default
 </div>
 </div>
 
- <br></br>
- <br></br>
- <br></br>
- <br></br>
+ <br>
+ <br>
+ <br>
+ <br>
 
 
 <div class="main" id="section3">
