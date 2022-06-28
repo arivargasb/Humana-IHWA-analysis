@@ -7,8 +7,8 @@ layout: default
 
 <div id="title">
   <img src="images/humanaLogo.png">
-<!--   <link rel = "icon" href = "https://arivargasb.github.io/Humana-Maps/images/humanaLogo.png" type = "image/x-icon">   -->
-  <h2 style="color:rgb(245,245,245)";><small><em><center>IHWA Analysis</center></em></small></h2>          
+<!--   <link rel = "icon" href = "https://arivargasb.github.io/Humana-Maps/images/humanaLogo2.png" type = "image/x-icon">   -->
+  <h2 style="color:white";><small><em><center>IHWA Analysis</center></em></small></h2>          
 </div>
 
 <div class="w3-bar w3-border w3-card " style="border-radius: 7px;">  
