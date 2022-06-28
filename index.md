@@ -6,44 +6,20 @@ layout: default
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 
 <div class="w3-bar w3-border w3-card " style="border-radius: 7px;">  
-  <a href="#section1" class="w3-bar-item w3-button w3-border-right" style="font-size:12px; background: #dedfe0;"><b>Plan & Membership Type by Region</b></a>
-  <a href="#section2" class="w3-bar-item w3-button w3-border-right" style="font-size:12px; background: #dedfe0;"><b>IHWA by Region</b></a>
-  <a href="#section3" class="w3-bar-item w3-button" style="font-size:12px; background: #dedfe0;"><b>IHWA by Sociodemographic</b></a>
+  <a href="#section1" class="w3-bar-item w3-button w3-border-right" style="font-size:12px; background: #dedfe0;">Plan & Membership Type by Region</a>
+  <a href="#section2" class="w3-bar-item w3-button w3-border-right" style="font-size:12px; background: #dedfe0;">IHWA by Region</a>
+  <a href="#section3" class="w3-bar-item w3-button" style="font-size:12px; background: #dedfe0;">IHWA by Sociodemographic</a>
 </div>
 
 <!-- <div class="w3-container w3-light-gray"> -->
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
+ <br></br>
+ <br></br>
   <p>[Add intro (and takeaways?) here]</p>
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-<!-- </div> -->
+ <br></br>
+ <br></br>
+ <br></br>
+ <br></br>
+  <!-- </div> -->
 &nbsp;
 &nbsp;
 &nbsp;
@@ -71,30 +47,20 @@ layout: default
    <iframe src="maps/IHAPlevel.html" height=260 width=300></iframe>
   </div>
   <div class="column">
-&nbsp;
-&nbsp;
-&nbsp;
+ <br></br>
+ <br></br>
 
     <p>[Add interpretation here]</p>
   </div>
 </div>
 </div>
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
+ <br></br>
+ <br></br>
+ <br></br>
+ <br></br>
 
 <div class="main" id="section2">
 <h2><small>IHWA by Medicare Region</small></h2>
-&nbsp;
 
 <div class="row">
   <div class="column">
@@ -118,31 +84,11 @@ layout: default
 </div>
 </div>
 
+ <br></br>
+ <br></br>
+ <br></br>
+ <br></br>
 
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
 
 <div class="main" id="section3">
 <h2><small>IHWA by Sociodemographic</small></h2>
