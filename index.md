@@ -6,7 +6,7 @@ layout: default
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 
 <div class="w3-bar w3-border w3-card " style="border-radius: 7px;">  
-  <a href="#section1" class="w3-bar-item w3-button w3-border-right" style="font-size:12px; background: #dedfe0;"><b>Plan & Membership Type by Region</a></a>
+  <a href="#section1" class="w3-bar-item w3-button w3-border-right" style="font-size:12px; background: #dedfe0;"><b>Plan & Membership Type by Region</b></a>
   <a href="#section2" class="w3-bar-item w3-button w3-border-right" style="font-size:12px; background: #dedfe0;"><b>IHWA by Region</b></a>
   <a href="#section3" class="w3-bar-item w3-button" style="font-size:12px; background: #dedfe0;"><b>IHWA by Sociodemographic</b></a>
 </div>
