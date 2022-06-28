@@ -6,7 +6,8 @@ layout: default
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 
 <div id="title">
-  <link rel="humana logo" href="https://arivargasb.github.io/Humana-Maps/images/humanaLogo.png">
+  <link rel="icon" href="images" type="humanaLogo.png">
+<!--   <link rel = "icon" href = "https://arivargasb.github.io/Humana-Maps/images/humanaLogo.png" type = "image/x-icon">   -->
   <h2><small><em>IHWA Analysis</em></small></h2>          
 </div>
 
