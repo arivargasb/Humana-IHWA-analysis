@@ -7,7 +7,7 @@ layout: default
 
 <style>
 .dropbtn {
-  background-color: #555;
+  background-color: #9ba3ab;
   color: white;
   width: 600px;  
   padding: 12px;
@@ -44,8 +44,9 @@ layout: default
 }
 
 .dropdown:hover .dropbtn {
-  background-color: #3e8e41;
+  background-color: #768ca6;
 }
+
 </style>
 
 
