@@ -46,7 +46,6 @@ layout: default
 .dropdown:hover .dropbtn {
   background-color: #768ca6;
 }
-
 </style>
 
 
