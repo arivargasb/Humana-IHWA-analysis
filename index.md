@@ -58,9 +58,9 @@ layout: default
 <div class="dropdown">
   <button class="dropbtn">Menu</button>
   <div class="dropdown-content">
-  <a href="section1">Tye of Plan & Membership by Medicare Region</a>
-  <a href="section2">IHWA by Medicare Region</a>
-  <a href="section3">IHWA by Sociodemographic</a>
+  <a href="#section1">Tye of Plan & Membership by Medicare Region</a>
+  <a href="#section2">IHWA by Medicare Region</a>
+  <a href="#section3">IHWA by Sociodemographic</a>
 </div>
 </div>
 
