@@ -13,6 +13,7 @@ layout: default
   <h1><em><center>IHWA Analysis</center></em></h1>          
 </div>
 
+<body>
 <div class="dropdown">
   <button class="dropbtn">Menu</button>
   <div class="dropdown-content">
@@ -21,7 +22,7 @@ layout: default
   <a href="#section3">IHWA by Sociodemographic</a>
 </div>
 </div>
-
+</body>
 <br>
  <br>
   <p>[Add intro (and takeaways?) here]</p>
