@@ -5,24 +5,26 @@ layout: default
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 
-
-
 <div id="title">
   <img src="images/humanaLogo2.png">
  <br>
   <h1><em><center>IHWA Analysis</center></em></h1>          
 </div>
 
-<body>
+  
+<div class="navbar">  
 <div class="dropdown">
-  <button class="dropbtn">Menu</button>
+  <button class="dropbtn">Menu
+   <i class="fa fa-caret-down"></i>
+    </button>
   <div class="dropdown-content">
   <a href="#section1">Tye of Plan & Membership by Medicare Region</a>
   <a href="#section2">IHWA by Medicare Region</a>
   <a href="#section3">IHWA by Sociodemographic</a>
 </div>
 </div>
-</body>
+</div>
+
 <br>
  <br>
   <p>[Add intro (and takeaways?) here]</p>
