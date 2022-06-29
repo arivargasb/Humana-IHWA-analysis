@@ -6,27 +6,48 @@ layout: default
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 
 <style>
-ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  width: 300px;
-  background-color: #f1f1f1;
-}
-
-li a {
-  display: block;
-  color: #000;
-  padding: 8px 16px;
-  text-decoration: none;
-}
-
-/* Change the link color on hover */
-li a:hover {
+.dropbtn {
   background-color: #555;
   color: white;
+  width: 600px;  
+  padding: 12px;
+  font-size: 16px;
+  border: none;
+  cursor: pointer;
+}
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.dropdown-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+.dropdown-content a:hover {background-color: #f1f1f1}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+.dropdown:hover .dropbtn {
+  background-color: #3e8e41;
 }
 </style>
+
 
 <div id="title">
   <img src="images/humanaLogo2.png">
@@ -34,25 +55,15 @@ li a:hover {
   <h1><em><center>IHWA Analysis</center></em></h1>          
 </div>
 
-<div class="row">
-  <div class="column">
-<ul>
-<!--   <li><a href="#intro">Introduction</a></li> -->
-  <li><a href="#section1">Plan & Membership Type by Region</a></li>
-  <li><a href="#section2">IHWA by Region</a></li>
-  <li><a href="#section3">IHWA by Sociodemographic</a></li>
-</ul>
+<div class="dropdown">
+  <button class="dropbtn">Dropdown</button>
+  <div class="dropdown-content">
+  <a href="#section1">Tye of Plan & Membership by Medicare Region</a>
+  <a href="#section2">IHWA by Medicare Region</a>
+  <a href="#section3">IHWA by Sociodemographic</a>
 </div>
-  
-<!-- <div class="w3-bar w3-border w3-card " style="border-radius: 7px;">  
-  <a href="#section1" class="w3-bar-item w3-button w3-border-right" style="font-size:12px; color:white">Plan & Membership Type by Region</a>
-  <a href="#section2" class="w3-bar-item w3-button w3-border-right" style="font-size:12px; color:white">IHWA by Region</a>
-  <a href="#section3" class="w3-bar-item w3-button" style="font-size:12px;color:white">IHWA by Sociodemographic</a>
-</div> -->
+</div>
 
-<!-- <div class="w3-container w3-light-gray"> -->
-
-<div class="column">
 <br>
  <br>
   <p>[Add intro (and takeaways?) here]</p>
@@ -60,8 +71,6 @@ li a:hover {
  <br>
  <br>
  <br>
- </div>
- </div>
   
   
 <div class="main" id="section1">
