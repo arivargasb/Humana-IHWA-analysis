@@ -8,8 +8,8 @@ layout: default
 <style>
     
 .dropbtn {
-  background-color: #4CAF50;
-  width: 600;
+  background-color: #3e8e41;
+  width: 600px;
   color: white;
   padding: 16px;
   font-size: 16px;
@@ -45,7 +45,7 @@ layout: default
 }
 
 .dropdown:hover .dropbtn {
-  background-color: #3e8e41;
+  background-color: #7d96b0;
 }  
    
 </style>
@@ -64,7 +64,7 @@ layout: default
   <a href="#section3">IHWA by Sociodemographic</a>
 </div>
 </div>
-
+<!-- 
 <br>
  <br>
   <p>[Add intro (and takeaways?) here]</p>
@@ -146,3 +146,4 @@ layout: default
 
   
  </div>
+ -->
