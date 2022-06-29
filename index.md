@@ -10,7 +10,7 @@ ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
-  width: 200px;
+  width: 300px;
   background-color: #f1f1f1;
 }
 
@@ -34,13 +34,16 @@ li a:hover {
   <h1><em><center>IHWA Analysis</center></em></h1>          
 </div>
 
+<div class="row">
+  <div class="column">
 <ul>
-  <li><a href="#intro">Introduction</a></li>
+<!--   <li><a href="#intro">Introduction</a></li> -->
   <li><a href="#section1">Plan & Membership Type by Region</a></li>
   <li><a href="#section2">IHWA by Region</a></li>
   <li><a href="#section3">IHWA by Sociodemographic</a></li>
 </ul>
-
+</div>
+  
 <!-- <div class="w3-bar w3-border w3-card " style="border-radius: 7px;">  
   <a href="#section1" class="w3-bar-item w3-button w3-border-right" style="font-size:12px; color:white">Plan & Membership Type by Region</a>
   <a href="#section2" class="w3-bar-item w3-button w3-border-right" style="font-size:12px; color:white">IHWA by Region</a>
@@ -49,7 +52,7 @@ li a:hover {
 
 <!-- <div class="w3-container w3-light-gray"> -->
 
-<div class="main" id="intro">
+<div class="column">
 <br>
  <br>
   <p>[Add intro (and takeaways?) here]</p>
@@ -58,6 +61,9 @@ li a:hover {
  <br>
  <br>
  </div>
+ </div>
+  
+  
 <div class="main" id="section1">
 <h2><small>Plan and Membership Type by Medicare Region</small></h2>
     
