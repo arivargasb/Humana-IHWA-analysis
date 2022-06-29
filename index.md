@@ -21,7 +21,7 @@ layout: default
   <a href="#section3">IHWA by Sociodemographic</a>
 </div>
 </div>
-<!-- 
+
 <br>
  <br>
   <p>[Add intro (and takeaways?) here]</p>
@@ -103,4 +103,4 @@ layout: default
 
   
  </div>
- -->
+
