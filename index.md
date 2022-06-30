@@ -100,9 +100,9 @@ layout: default
 <div class="main" id="section3">
 <h2><small>IHWA by Sociodemographic</small></h2>
     <h3><b><i><small>Correlation between IHWA indicators and the proportion of population from each racial group at each zip code</small></i></b></h3>
-   <iframe src="charts/IHWA_race.jpg" height=360 width=446></iframe>
+   <p align="center"><iframe src="charts/IHWA_race.jpg" height=360 width=446></iframe></p>
     <h3><b><i><small>IHWA indicators per socioeconomic class at each zip code</small></i></b></h3>
-   <iframe src="charts/IHWA_income.jpg" height=360 width=446 ></iframe>
+   <p align="center"><iframe src="charts/IHWA_income.jpg" height=360 width=446 ></iframe></p>
 
   
  </div>
