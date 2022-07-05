@@ -1,6 +1,25 @@
 ---
 layout: default
 ---
+
+<script>
+/* When the user clicks on the button, 
+toggle between hiding and showing the dropdown content */
+function myFunction() {
+  document.getElementById("myDropdown").classList.toggle("show");
+}
+
+// Close the dropdown if the user clicks outside of it
+window.onclick = function(e) {
+  if (!e.target.matches('.dropbtn')) {
+  var myDropdown = document.getElementById("myDropdown");
+    if (myDropdown.classList.contains('show')) {
+      myDropdown.classList.remove('show');
+    }
+  }
+}
+</script>
+
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
@@ -21,26 +40,13 @@ layout: default
   <a href="#section1">Tye of Coverage & Eligibility by Medicare Region</a>
   <div class="subnav">
 <!--     <a href="#section2">IHWA by Medicare Region</a> -->
-
-
     <button class="subnavbtn">IHWA by Medicare Region<i class="fa fa-caret-down"></i></button>
     <div class="subnav-content">
           <a href="#section 2_all">All Members</a>
           <a href="#section 2_plan">By Type of Coverage</a>
           <a href="#section 2_eligibility">By Type of Plan</a>
     </div>
-  </div> 
-    
-    
-<!--     <div class="dropdown">
-      <button class="dropbtn">Menu<i class="fa fa-caret-down"></i></button>
-        <div class="dropdown-content">
-          <a href="#section 2_all">All Members</a>
-          <a href="#section 2_plan">By Type of Coverage</a>
-          <a href="#section 2_eligibility">By Type of Plan</a>
-        </div>
-    </div> -->
-   
+  </div>        
   <a href="#section3">IHWA by Sociodemographic</a>
 </div>
 </div>
