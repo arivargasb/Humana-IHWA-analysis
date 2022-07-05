@@ -21,7 +21,7 @@ layout: default
   <div class="dropdown-content">
   <a href="#section1">Tye of Coverage & Eligibility by Medicare Region</a>
   <a href="#section2_all">IHWA by Medicare Region</a>    
-    <ul>
+    <ul id="nav">
       <li><a href="#section2_all">All Members</a></li>
       <li><a href="#section2_plan">By Type of Coverage</a></li>
       <li><a href="#section2_eligibility">By Type of Plan</a></li>    
