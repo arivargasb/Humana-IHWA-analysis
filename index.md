@@ -21,12 +21,13 @@ layout: default
   <div class="dropdown-content">
 <ul id="nav">    
   <li><a href="#section1">Tye of Coverage & Eligibility by Medicare Region</a></li>
-  <li><a href="#section2_all">IHWA by Medicare Region</a></li>    
+  <li><a href="#section2_all">IHWA by Medicare Region</a>   
   <ul>
       <li><a href="#section2_all">All Members</a></li>
       <li><a href="#section2_plan">By Type of Coverage</a></li>
       <li><a href="#section2_eligibility">By Type of Plan</a></li>    
   </ul>  
+  </li>   
   <li><a href="#section3">IHWA by Sociodemographic</a></li>
 </ul>
 </div>
@@ -73,37 +74,7 @@ layout: default
  <br>
  <br>
  <br>
-
-<div class="main" id="section2">
-<h2><small>IHWA by Medicare Region</small></h2>
-
-<div class="row">
-  <div class="column">
-    <h3><b><i><small>Type of membership</small></i></b></h3>
-   <iframe src="maps/MembershipType.html" height=260 width=300></iframe>
-  </div>
-  <div class="column">
-    <h3><b><i><small>Type of plan</small></i></b></h3>
-       <iframe src="maps/PlanType.html" height=260 width=300></iframe>
-  </div>
-</div>
-  <div class="row">
-  <div class="column">
-    <h3><b><i><small>Type of membership</small></i></b></h3>
-   <iframe src="maps/MembershipType.html" height=260 width=300></iframe>
-  </div>
-  <div class="column">
-    <h3><b><i><small>Type of plan</small></i></b></h3>
-       <iframe src="maps/PlanType.html" height=260 width=300></iframe>
-  </div>
-</div>
-</div>
-
- <br>
- <br>
- <br>
- <br>
-
+ 
 <div class="main" id="section2_all">
 <h2><small>IHWA by Medicare Region</small></h2>
 
