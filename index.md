@@ -20,15 +20,12 @@ layout: default
     </button>
   <div class="dropdown-content">
   <a href="#section1">Tye of Coverage & Eligibility by Medicare Region</a>
-  <div class="subnav">
-<!--     <a href="#section2">IHWA by Medicare Region</a> -->
-    <button class="subnavbtn">IHWA by Medicare Region<i class="fa fa-caret-down"></i></button>
-    <div class="subnav-content">
-          <a href="#section 2_all">All Members</a>
-          <a href="#section 2_plan">By Type of Coverage</a>
-          <a href="#section 2_eligibility">By Type of Plan</a>
-    </div>
-  </div>        
+  <a href="#section2_all">IHWA by Medicare Region</a>    
+    <ul>
+      <li><a href="#section2_all">All Members</a></li>
+      <li><a href="#section2_plan">By Type of Coverage</a></li>
+      <li><a href="#section2_eligibility">By Type of Plan</a></li>    
+    </ul>
   <a href="#section3">IHWA by Sociodemographic</a>
 </div>
 </div>
