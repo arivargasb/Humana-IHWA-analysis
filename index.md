@@ -40,18 +40,18 @@ layout: default
 <div class="row">
   <div class="column">
     <h3><b><i><small>Type of membership</small></i></b></h3>
-   <iframe src="maps/MembershipType.html" height=260 width=300></iframe>
+   <iframe src="maps/MembershipType_fullDataset.html" height=260 width=300></iframe>
   </div>
   <div class="column">
     <h3><b><i><small>Type of plan</small></i></b></h3>
-       <iframe src="maps/PlanType.html" height=260 width=300></iframe>
+       <iframe src="maps/PlanType_fullDataset.html" height=260 width=300></iframe>
   </div>
 </div>
 
 <div class="row">
   <div class="column">
     <h3><b><i><small>IHAP levels</small></i></b></h3>
-   <iframe src="maps/IHAPlevel.html" height=260 width=300></iframe>
+   <iframe src="maps/IHAPlevel_fullDataset.html" height=260 width=300></iframe>
   </div>
   <div class="column">
  <br>
