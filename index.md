@@ -19,14 +19,14 @@ layout: default
    <i class="fa fa-caret-down"></i>
     </button>
   <div class="dropdown-content">
+<ul id="nav">    
   <a href="#section1">Tye of Coverage & Eligibility by Medicare Region</a>
   <a href="#section2_all">IHWA by Medicare Region</a>    
-    <ul id="nav">
       <li><a href="#section2_all">All Members</a></li>
       <li><a href="#section2_plan">By Type of Coverage</a></li>
       <li><a href="#section2_eligibility">By Type of Plan</a></li>    
-    </ul>
   <a href="#section3">IHWA by Sociodemographic</a>
+</ul>
 </div>
 </div>
 </div>
@@ -143,20 +143,3 @@ layout: default
   
  </div>
 
-<script>
-/* When the user clicks on the button, 
-toggle between hiding and showing the dropdown content */
-function myFunction() {
-  document.getElementById("myDropdown").classList.toggle("show");
-}
-
-// Close the dropdown if the user clicks outside of it
-window.onclick = function(e) {
-  if (!e.target.matches('.dropbtn')) {
-  var myDropdown = document.getElementById("myDropdown");
-    if (myDropdown.classList.contains('show')) {
-      myDropdown.classList.remove('show');
-    }
-  }
-}
-</script>
