@@ -112,19 +112,41 @@ layout: default
  <br>
 
 <div class="main" id="section2_coverage">
+ <br>
+ <br>  
 <h2><small>IHWA by Medicare Region & Type of Coverage</small></h2>
-
 <div class="row">
   <div class="column">
-    <h3><b><i><small>Type of membership</small></i></b></h3>
+    <h3><b><i><small>Group Plan</small></i></b></h3>
    <iframe src="maps/IHWA_groupPlan.html" height=260 width=300></iframe>
   </div>
  <div class="column">
-    <h3><b><i><small>Type of membership</small></i></b></h3>
+    <h3><b><i><small>Individual Plan</small></i></b></h3>
    <iframe src="maps/IHWA_individualPlan.html" height=260 width=300></iframe>
   </div>
   
 </div>
+
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>  
+  
 </div>
 
  <br>
@@ -134,6 +156,8 @@ layout: default
  
  
  <div class="main" id="section2_eligibility">
+ <br>
+ <br>  
 <h2><small>IHWA by Medicare Region & Eligibility</small></h2>
     
 <div class="row">
@@ -170,6 +194,8 @@ layout: default
 
  
  <div class="main" id="section2_plan">
+ <br>
+ <br>  
 <h2><small>IHWA by Medicare Region & Plan</small></h2>
     
 <div class="row">
