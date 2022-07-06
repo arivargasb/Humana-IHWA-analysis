@@ -81,21 +81,13 @@ layout: default
 <div class="row">
   <div class="column">
     <h3><b><i><small>Type of membership</small></i></b></h3>
-   <iframe src="maps/MembershipType.html" height=260 width=300></iframe>
+   <iframe src="maps/IHWA_fullDataset.html" height=260 width=300></iframe>
   </div>
-  <div class="column">
-    <h3><b><i><small>Type of plan</small></i></b></h3>
-       <iframe src="maps/PlanType.html" height=260 width=300></iframe>
-  </div>
-</div>
-  <div class="row">
-  <div class="column">
-    <h3><b><i><small>Type of membership</small></i></b></h3>
-   <iframe src="maps/MembershipType.html" height=260 width=300></iframe>
-  </div>
-  <div class="column">
-    <h3><b><i><small>Type of plan</small></i></b></h3>
-       <iframe src="maps/PlanType.html" height=260 width=300></iframe>
+   <div class="column">
+ <br>
+ <br>
+
+    <p>[Add interpretation here]</p>
   </div>
 </div>
 </div>
