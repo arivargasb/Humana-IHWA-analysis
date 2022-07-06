@@ -24,8 +24,9 @@ layout: default
   <a>IHWA by Medicare Region</a>   
   <ul>
       <li><a href="#section2_all">All Members</a></li>
-      <li><a href="#section2_plan">And Type of Coverage</a></li>
-      <li><a href="#section2_eligibility">And Type of Plan</a></li>    
+      <li><a href="#section2_coverage">And Type of Coverage</a></li>
+      <li><a href="#section2_eligibility">And Eligibility</a></li>    
+      <li><a href="#section2_plan">And Type of Plan</a></li>        
   </ul>  
   <li><a href="#section3">IHWA by Sociodemographic</a></li>
 </ul>
@@ -80,12 +81,12 @@ layout: default
 <div class="main" id="section2_all">
  <br>
  <br>
-<h2><small>IHWA by Medicare Region - All Members</small></h2>
+<h2><small>IHWA by Medicare Region</small></h2>
  <br>
  <br>
 <div class="row">
   <div class="column">
-    <h3><b><i><small>Type of membership</small></i></b></h3>
+    <h3><b><i><small>All Members</small></i></b></h3>
    <iframe src="maps/IHWA_fullDataset.html" height=260 width=300></iframe>
   </div>
    <div class="column">
@@ -110,7 +111,7 @@ layout: default
  <br>
  <br>
 
-<div class="main" id="section2_plan">
+<div class="main" id="section2_coverage">
 <h2><small>IHWA by Medicare Region & Type of Coverage</small></h2>
 
 <div class="row">
@@ -130,6 +131,78 @@ layout: default
  <br>
  <br>
  <br>
+ 
+ 
+ <div class="main" id="section2_eligibility">
+<h2><small>IHWA by Medicare Region & Eligibility</small></h2>
+    
+<div class="row">
+  <div class="column">
+    <h3><b><i><small>SNP Members</small></i></b></h3>
+   <iframe src="maps/IHWA_snpMembers.html" height=260 width=300></iframe>
+  </div>
+  <div class="column">
+    <h3><b><i><small>Dual Eligible Members</small></i></b></h3>
+       <iframe src="maps/IHWA_dualMembers.html" height=260 width=300></iframe>
+  </div>
+</div>
+
+<div class="row">
+  <div class="column">
+    <h3><b><i><small>SNP & Dual Eligible Members</small></i></b></h3>
+   <iframe src="maps/IHWA_dualSNPmembers.html" height=260 width=300></iframe>
+  </div>
+  <div class="column">
+ <br>
+ <br>
+
+    <p>[Add interpretation here]</p>
+  </div>
+</div>
+</div>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+
+ 
+ <div class="main" id="section2_plan">
+<h2><small>IHWA by Medicare Region & Plan</small></h2>
+    
+<div class="row">
+  <div class="column">
+    <h3><b><i><small>NCSHP Plan</small></i></b></h3>
+   <iframe src="maps/IHWA_NCSHPplan.html" height=260 width=300></iframe>
+  </div>
+  <div class="column">
+    <h3><b><i><small>PBUCC Plan</small></i></b></h3>
+       <iframe src="maps/IHWA_PBUCCplan.html" height=260 width=300></iframe>
+  </div>
+</div>
+
+<div class="row">
+  <div class="column">
+    <h3><b><i><small>PEEHIP Plan</small></i></b></h3>
+   <iframe src="maps/IHWA_PEEHIPplan.html" height=260 width=300></iframe>
+  </div>
+  <div class="column">
+    <h3><b><i><small>WV PEIA Plan</small></i></b></h3>
+   <iframe src="maps/IHWA_WVPEIAplan.html" height=260 width=300></iframe>
+  </div>
+</div>
+</div>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+
+ 
 
 
 <div class="main" id="section3">
