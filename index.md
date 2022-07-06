@@ -80,7 +80,7 @@ layout: default
 <div class="main" id="section2_all">
  <br>
  <br>
-<h2><small>IHWA by Medicare Region</small></h2>
+<h2><small>IHWA by Medicare Region - All Members</small></h2>
  <br>
  <br>
 <div class="row">
