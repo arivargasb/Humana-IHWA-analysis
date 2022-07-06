@@ -73,10 +73,16 @@ layout: default
  <br>
  <br>
  <br>
- 
-<div class="main" id="section2_all">
-<h2><small>IHWA by Medicare Region</small></h2>
+ <br>
+ <br>
+ <br>
 
+<div class="main" id="section2_all">
+ <br>
+ <br>
+<h2><small>IHWA by Medicare Region</small></h2>
+ <br>
+ <br>
 <div class="row">
   <div class="column">
     <h3><b><i><small>Type of membership</small></i></b></h3>
@@ -90,7 +96,15 @@ layout: default
   </div>
 </div>
 </div>
-
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
  <br>
  <br>
  <br>
