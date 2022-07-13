@@ -229,9 +229,34 @@ layout: default
  <br>
 
  
+  <div class="main" id="section3">
+ <br>
+ <br>  
+<h2><small>IHWA by Sociodemographic</small></h2>
+    
+<div class="row">
+  <div class="column">
+    <h3><b><i><small>IHWA indicators by race</small></i></b></h3>
+   <iframe src="maps/charts/IHWA_race.jpg" style="border:none;" height=260 width=300></iframe>
+  </div>
+  <div class="column">
+    <h3><b><i><small>IHWA indicators by income</small></i></b></h3>
+       <iframe src="maps/charts/IHWA_income.jpg" style="border:none;" height=260 width=300></iframe>
+  </div>
+</div>
+
+</div>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ 
 
 
-<div class="main" id="section3">
+<!-- <div class="main" id="section3">
 <h2><small>IHWA by Sociodemographic</small></h2>
     <h3><b><i><small>Correlation between IHWA indicators and the proportion of population from each racial group at each zip code</small></i></b></h3>
    <p align="center"><iframe src="charts/IHWA_race.jpg" height=360 width=446></iframe></p>
@@ -239,5 +264,5 @@ layout: default
    <p align="center"><iframe src="charts/IHWA_income.jpg" height=360 width=446 ></iframe></p>
 
   
- </div>
+ </div> -->
 
