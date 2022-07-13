@@ -237,7 +237,7 @@ layout: default
 <div class="row">
   <div class="column">
     <h3><b><i><small>IHWA indicators by race</small></i></b></h3>
-   <iframe src="maps/charts/IHWA_race.jpg" style="border:none;" height=260 width=300></iframe>
+   <iframe src="maps/charts/1_1_IHWA_race.jpg" style="border:none;" height=260 width=300></iframe>
   </div>
   <div class="column">
     <h3><b><i><small>IHWA indicators by income</small></i></b></h3>
