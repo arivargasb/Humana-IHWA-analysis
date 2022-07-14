@@ -127,13 +127,67 @@ layout: default
    <iframe src="maps/1_7_referrals_fullDataset.html" style="border:none;" height=260 width=300></iframe>
   </div>
   <div class="column">
-    <h3><b><i><small> </small></i></b></h3>
+
    <iframe src="maps/1_8_referrals_fullDataset.html" style="border:none;" height=260 width=300></iframe>
   </div>
 </div>  
 </div>
   
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>  
   
+<div class="main" id="4_groupPlan">
+<h2><small>Members in a Group Plan</small></h2>
+<div class="row">
+  <div class="column">
+    <h3><b><i><small>IHWA indicators</small></i></b></h3>
+   <iframe src="maps/2_1_IHWA_groupPlan.html" style="border:none;" height=260 width=300></iframe>
+  </div>
+  <div class="column">
+    <h3><b><i><small>Referrals</small></i></b></h3>
+       <iframe src="maps/2_2_referrals_groupPlan.html" style="border:none;" height=260 width=300></iframe>
+  </div>
+ <br>
+ <br>    
+<h2><small>Members in an Individual Plan</small></h2>
+<div class="row">
+  <div class="column">
+    <h3><b><i><small>IHWA indicators</small></i></b></h3>
+   <iframe src="maps/3_1_IHWA_individualPlan.html" style="border:none;" height=260 width=300></iframe>
+  </div>
+  <div class="column">
+    <h3><b><i><small>Referrals</small></i></b></h3>
+       <iframe src="maps/3_2_referrals_individualPlan.html" style="border:none;" height=260 width=300></iframe>
+  </div>
+</div>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+     
   
   
   
