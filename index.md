@@ -155,6 +155,7 @@ layout: default
     <h3><b><i><small>Referrals</small></i></b></h3>
        <iframe src="maps/2_2_referrals_groupPlan.html" style="border:none;" height=260 width=300></iframe>
   </div>
+   </div>
  <br>
  <br>  
  <br>
@@ -176,6 +177,7 @@ layout: default
        <iframe src="maps/3_2_referrals_individualPlan.html" style="border:none;" height=260 width=300></iframe>
   </div>
 </div>
+</div>  
  <br>
  <br>
  <br>
