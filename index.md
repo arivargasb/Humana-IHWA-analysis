@@ -144,7 +144,7 @@ layout: default
  <br>
  <br>  
   
-<div class="main" id="4_groupPlan">
+<div class="main" id="4_coverage">
 <h2><small>Members in a Group Plan</small></h2>
 <div class="row">
   <div class="column">
@@ -157,8 +157,7 @@ layout: default
   </div>
    </div>
  <br>
- <br>  
-
+  
 <h2><small>Members in an Individual Plan</small></h2>
 <div class="row">
   <div class="column">
