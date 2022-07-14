@@ -94,7 +94,7 @@ layout: default
 <div class="row">
   <div class="column">
     <h3><b><i><small>IHAP Levels</small></i></b></h3>
-   <iframe src="maps/1_1_IHAPlevel_fullDatase.html" style="border:none;" height=260 width=300></iframe>
+   <iframe src="maps/1_1_IHAPlevel_fullDataset.html" style="border:none;" height=260 width=300></iframe>
   </div>
   <div class="column">
  <br>
