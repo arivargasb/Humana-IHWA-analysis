@@ -121,8 +121,9 @@ layout: default
    <iframe src="maps/1_6_IHWA_fullDataset.html" style="border:none;" height=260 width=300></iframe>
   
 <div class="row">
-  <div class="column">
     <h3><b><i><small>Referrals</small></i></b></h3>
+
+  <div class="column">
    <iframe src="maps/1_7_referrals_fullDataset.html" style="border:none;" height=260 width=300></iframe>
   </div>
   <div class="column">
