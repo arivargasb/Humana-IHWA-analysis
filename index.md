@@ -45,21 +45,39 @@ layout: default
 
 <div class="main" id="1_sociodem_allRegions">
 <h2><small>Sociodemographics by Medicare Region</small></h2>
-    
+ <br>
+ <br>      
 <div class="row">
   <div class="column">
-    <h3><b><i><small>Age Groups</small></i></b></h3>
+    <h3><b><i><small>Age</small></i></b></h3>
    <iframe src="maps/1_4_age_fullDataset.html" style="border:none;" height=260 width=300></iframe>
   </div>
   <div class="column">
     <h3><b><i><small>Race/Ethnicity</small></i></b></h3>
-       <iframe src="maps/1_5_age_fullDataset.html" style="border:none;" height=260 width=300></iframe>
+       <iframe src="maps/1_5_race_fullDataset.html" style="border:none;" height=260 width=300></iframe>
   </div>
 </div>
-
-
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
   
-<div class="main" id="2_type_allRegions">
+<div class="main" id="2_memberType_allRegions">
 <h2><small>Type of Coverage and Eligibility by Medicare Region</small></h2>
     
 <div class="row">
@@ -82,7 +100,7 @@ layout: default
  <br>
  <br>
 
-    <p>[Add interpretation here]</p>
+<!--     <p>[Add interpretation here]</p> -->
   </div>
 </div>
 </div>
@@ -93,26 +111,36 @@ layout: default
  <br>
  <br>
  <br>
+ <br>
+ <br>
+ <br>  
 
-<div class="main" id="section2_all">
- <br>
- <br>
-<h2><small>IHWA by Medicare Region</small></h2>
- <br>
- <br>
+<div class="main" id="3_ihwa_fullDataset">
+<h2><small>IHWA & Referrals by Medicare Region</small></h2>
+    <h3><b><i><small>IHWA indicators</small></i></b></h3>
+   <iframe src="maps/1_6_IHWA_fullDataset.html" style="border:none;" height=260 width=300></iframe>
+  
 <div class="row">
   <div class="column">
-    <h3><b><i><small>All Members</small></i></b></h3>
-   <iframe src="maps/IHWA_fullDataset.html" style="border:none;" height=260 width=300></iframe>
+    <h3><b><i><small>Referrals</small></i></b></h3>
+   <iframe src="maps/1_7_referrals_fullDataset.html" style="border:none;" height=260 width=300></iframe>
   </div>
-   <div class="column">
- <br>
- <br>
-
-    <p>[Add interpretation here]</p>
+  <div class="column">
+<!--     <h3><b><i><small>Referrals</small></i></b></h3> -->
+   <iframe src="maps/1_8_referrals_fullDataset.html" style="border:none;" height=260 width=300></iframe>
   </div>
+</div>  
 </div>
-</div>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+<!--   
  <br>
  <br>
  <br>
@@ -282,3 +310,4 @@ layout: default
   
  </div> -->
 
+ -->
