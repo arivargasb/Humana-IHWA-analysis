@@ -49,18 +49,18 @@ layout: default
 <div class="row">
   <div class="column">
     <h3><b><i><small>Eligibility</small></i></b></h3>
-   <iframe src="maps/MembershipType_fullDataset.html" height=260 width=300></iframe>
+   <iframe src="maps/MembershipType_fullDataset.html" style="border:none;" height=260 width=300></iframe>
   </div>
   <div class="column">
     <h3><b><i><small>Type of Coverage</small></i></b></h3>
-       <iframe src="maps/PlanType_fullDataset.html" height=260 width=300></iframe>
+       <iframe src="maps/PlanType_fullDataset.html" style="border:none;" height=260 width=300></iframe>
   </div>
 </div>
 
 <div class="row">
   <div class="column">
     <h3><b><i><small>IHAP Levels</small></i></b></h3>
-   <iframe src="maps/IHAPlevel_fullDataset.html" height=260 width=300></iframe>
+   <iframe src="maps/IHAPlevel_fullDataset.html" style="border:none;" height=260 width=300></iframe>
   </div>
   <div class="column">
  <br>
@@ -87,7 +87,7 @@ layout: default
 <div class="row">
   <div class="column">
     <h3><b><i><small>All Members</small></i></b></h3>
-   <iframe src="maps/IHWA_fullDataset.html" height=260 width=300></iframe>
+   <iframe src="maps/IHWA_fullDataset.html" style="border:none;" height=260 width=300></iframe>
   </div>
    <div class="column">
  <br>
@@ -118,11 +118,11 @@ layout: default
 <div class="row">
   <div class="column">
     <h3><b><i><small>Group Plan</small></i></b></h3>
-   <iframe src="maps/IHWA_groupPlan.html" height=260 width=300></iframe>
+   <iframe src="maps/IHWA_groupPlan.html" style="border:none;" height=260 width=300></iframe>
   </div>
  <div class="column">
     <h3><b><i><small>Individual Plan</small></i></b></h3>
-   <iframe src="maps/IHWA_individualPlan.html" height=260 width=300></iframe>
+   <iframe src="maps/IHWA_individualPlan.html" style="border:none;" height=260 width=300></iframe>
   </div>
   
 </div>
@@ -163,18 +163,18 @@ layout: default
 <div class="row">
   <div class="column">
     <h3><b><i><small>SNP Members</small></i></b></h3>
-   <iframe src="maps/IHWA_snpMembers.html" height=260 width=300></iframe>
+   <iframe src="maps/IHWA_snpMembers.html" style="border:none;" height=260 width=300></iframe>
   </div>
   <div class="column">
     <h3><b><i><small>Dual Eligible Members</small></i></b></h3>
-       <iframe src="maps/IHWA_dualMembers.html" height=260 width=300></iframe>
+       <iframe src="maps/IHWA_dualMembers.html" style="border:none;" height=260 width=300></iframe>
   </div>
 </div>
 
 <div class="row">
   <div class="column">
     <h3><b><i><small>SNP & Dual Eligible Members</small></i></b></h3>
-   <iframe src="maps/IHWA_dualSNPmembers.html" height=260 width=300></iframe>
+   <iframe src="maps/IHWA_dualSNPmembers.html" style="border:none;" height=260 width=300></iframe>
   </div>
   <div class="column">
  <br>
@@ -201,22 +201,22 @@ layout: default
 <div class="row">
   <div class="column">
     <h3><b><i><small>NCSHP Plan</small></i></b></h3>
-   <iframe src="maps/IHWA_NCSHPplan.html" height=260 width=300></iframe>
+   <iframe src="maps/IHWA_NCSHPplan.html" style="border:none;" height=260 width=300></iframe>
   </div>
   <div class="column">
     <h3><b><i><small>PBUCC Plan</small></i></b></h3>
-       <iframe src="maps/IHWA_PBUCCplan.html" height=260 width=300></iframe>
+       <iframe src="maps/IHWA_PBUCCplan.html" style="border:none;" height=260 width=300></iframe>
   </div>
 </div>
 
 <div class="row">
   <div class="column">
     <h3><b><i><small>PEEHIP Plan</small></i></b></h3>
-   <iframe src="maps/IHWA_PEEHIPplan.html" height=260 width=300></iframe>
+   <iframe src="maps/IHWA_PEEHIPplan.html" style="border:none;" height=260 width=300></iframe>
   </div>
   <div class="column">
     <h3><b><i><small>WV PEIA Plan</small></i></b></h3>
-   <iframe src="maps/IHWA_WVPEIAplan.html" height=260 width=300></iframe>
+   <iframe src="maps/IHWA_WVPEIAplan.html" style="border:none;" height=260 width=300></iframe>
   </div>
 </div>
 </div>
@@ -237,11 +237,11 @@ layout: default
 <div class="row">
   <div class="column">
     <h3><b><i><small>IHWA indicators by race</small></i></b></h3>
-   <iframe src="charts/1_1_IHWA_race.jpg" style="border:none;" height=260 width=300></iframe>
+   <iframe src="charts/1_1_IHWA_race.jpg" style="border:none;" height=290 width=300></iframe>
   </div>
   <div class="column">
     <h3><b><i><small>IHWA indicators by income</small></i></b></h3>
-       <iframe src="charts/IHWA_income.jpg" style="border:none;" height=260 width=300></iframe>
+       <iframe src="charts/IHWA_income.jpg" style="border:none;" height=290 width=300></iframe>
   </div>
 </div>
 
