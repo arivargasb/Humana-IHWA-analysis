@@ -122,7 +122,7 @@ layout: default
   
 <div class="row">
     <h3><b><i><small><center>Referrals</center></small></i></b></h3>
-
+ <br>  
   <div class="column">
    <iframe src="maps/1_7_referrals_fullDataset.html" style="border:none;" height=260 width=300></iframe>
   </div>
@@ -156,6 +156,9 @@ layout: default
        <iframe src="maps/2_2_referrals_groupPlan.html" style="border:none;" height=260 width=300></iframe>
   </div>
  <br>
+ <br>  
+ <br>
+ <br>  
  <br>    
 <h2><small>Members in an Individual Plan</small></h2>
 <div class="row">
