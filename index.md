@@ -121,8 +121,8 @@ layout: default
    <iframe src="maps/1_6_IHWA_fullDataset.html" style="border:none;" height=260 width=300></iframe>
   
 <div class="row">
+ <br>    
     <h3><b><i><small><center>Referrals</center></small></i></b></h3>
- <br>  
   <div class="column">
    <iframe src="maps/1_7_referrals_fullDataset.html" style="border:none;" height=260 width=300></iframe>
   </div>
@@ -155,6 +155,11 @@ layout: default
     <h3><b><i><small>Referrals</small></i></b></h3>
        <iframe src="maps/2_2_referrals_groupPlan.html" style="border:none;" height=260 width=300></iframe>
   </div>
+ <br>
+ <br>  
+ <br>
+ <br>  
+ <br>  
  <br>
  <br>  
  <br>
