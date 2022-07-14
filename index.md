@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
@@ -11,8 +10,7 @@ layout: default
  <br>
   <h1><em><center>IHWA Analysis</center></em></h1>          
 </div>
-
-  
+ 
 <div class="navbar">  
 <div class="dropdown">
   <button class="dropbtn">Menu
@@ -44,6 +42,8 @@ layout: default
 
 
 <div class="main" id="1_sociodem_allRegions">
+<br>
+<br>    
 <h2><small>Sociodemographics by Medicare Region</small></h2>
  <br>
  <br>      
@@ -126,7 +126,7 @@ layout: default
    <iframe src="maps/1_7_referrals_fullDataset.html" style="border:none;" height=260 width=300></iframe>
   </div>
   <div class="column">
-<!--     <h3><b><i><small>Referrals</small></i></b></h3> -->
+    <h3><b><i><small> </small></i></b></h3>
    <iframe src="maps/1_8_referrals_fullDataset.html" style="border:none;" height=260 width=300></iframe>
   </div>
 </div>  
@@ -137,177 +137,3 @@ layout: default
   
   
   
-  
-  
-  
-<!--   
- <br>
- <br>
- <br>
- <br>
- <br>
- <br>
- <br>
- <br>
- <br>
- <br>
- <br>
- <br>
- <br>
-
-<div class="main" id="section2_coverage">
- <br>
- <br>  
-<h2><small>IHWA by Medicare Region & Type of Coverage</small></h2>
-<div class="row">
-  <div class="column">
-    <h3><b><i><small>Group Plan</small></i></b></h3>
-   <iframe src="maps/IHWA_groupPlan.html" style="border:none;" height=260 width=300></iframe>
-  </div>
- <div class="column">
-    <h3><b><i><small>Individual Plan</small></i></b></h3>
-   <iframe src="maps/IHWA_individualPlan.html" style="border:none;" height=260 width=300></iframe>
-  </div>
-  
-</div>
-
- <br>
- <br>
- <br>
- <br>
- <br>
- <br>
- <br>
- <br>
- <br>
- <br>
- <br>
- <br>
- <br>
- <br>
- <br>
- <br>
- <br>
- <br>
- <br>  
-  
-</div>
-
- <br>
- <br>
- <br>
- <br>
- 
- 
- <div class="main" id="section2_eligibility">
- <br>
- <br>  
-<h2><small>IHWA by Medicare Region & Eligibility</small></h2>
-    
-<div class="row">
-  <div class="column">
-    <h3><b><i><small>SNP Members</small></i></b></h3>
-   <iframe src="maps/IHWA_snpMembers.html" style="border:none;" height=260 width=300></iframe>
-  </div>
-  <div class="column">
-    <h3><b><i><small>Dual Eligible Members</small></i></b></h3>
-       <iframe src="maps/IHWA_dualMembers.html" style="border:none;" height=260 width=300></iframe>
-  </div>
-</div>
-
-<div class="row">
-  <div class="column">
-    <h3><b><i><small>SNP & Dual Eligible Members</small></i></b></h3>
-   <iframe src="maps/IHWA_dualSNPmembers.html" style="border:none;" height=260 width=300></iframe>
-  </div>
-  <div class="column">
- <br>
- <br>
-
-    <p>[Add interpretation here]</p>
-  </div>
-</div>
-</div>
- <br>
- <br>
- <br>
- <br>
- <br>
- <br>
- <br>
-
- 
- <div class="main" id="section2_plan">
- <br>
- <br>  
-<h2><small>IHWA by Medicare Region & Plan</small></h2>
-    
-<div class="row">
-  <div class="column">
-    <h3><b><i><small>NCSHP Plan</small></i></b></h3>
-   <iframe src="maps/IHWA_NCSHPplan.html" style="border:none;" height=260 width=300></iframe>
-  </div>
-  <div class="column">
-    <h3><b><i><small>PBUCC Plan</small></i></b></h3>
-       <iframe src="maps/IHWA_PBUCCplan.html" style="border:none;" height=260 width=300></iframe>
-  </div>
-</div>
-
-<div class="row">
-  <div class="column">
-    <h3><b><i><small>PEEHIP Plan</small></i></b></h3>
-   <iframe src="maps/IHWA_PEEHIPplan.html" style="border:none;" height=260 width=300></iframe>
-  </div>
-  <div class="column">
-    <h3><b><i><small>WV PEIA Plan</small></i></b></h3>
-   <iframe src="maps/IHWA_WVPEIAplan.html" style="border:none;" height=260 width=300></iframe>
-  </div>
-</div>
-</div>
- <br>
- <br>
- <br>
- <br>
- <br>
- <br>
- <br>
-
- 
-  <div class="main" id="section3">
- <br>
- <br>  
-<h2><small>IHWA by Sociodemographic</small></h2>
-    
-<div class="row">
-  <div class="column">
-    <h3><b><i><small>IHWA indicators by race</small></i></b></h3>
-   <iframe src="charts/1_1_IHWA_race.jpg" style="border:none;" height=290 width=300></iframe>
-  </div>
-  <div class="column">
-    <h3><b><i><small>IHWA indicators by income</small></i></b></h3>
-       <iframe src="charts/IHWA_income.jpg" style="border:none;" height=290 width=300></iframe>
-  </div>
-</div>
-
-</div>
- <br>
- <br>
- <br>
- <br>
- <br>
- <br>
- <br>
- 
-
-
-<!-- <div class="main" id="section3">
-<h2><small>IHWA by Sociodemographic</small></h2>
-    <h3><b><i><small>Correlation between IHWA indicators and the proportion of population from each racial group at each zip code</small></i></b></h3>
-   <p align="center"><iframe src="charts/IHWA_race.jpg" height=360 width=446></iframe></p>
-    <h3><b><i><small>IHWA indicators per socioeconomic class at each zip code</small></i></b></h3>
-   <p align="center"><iframe src="charts/IHWA_income.jpg" height=360 width=446 ></iframe></p>
-
-  
- </div> -->
-
- -->
