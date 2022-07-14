@@ -41,26 +41,42 @@ layout: default
  <br>
  <br>
  <br>
+
+
+<div class="main" id="1_sociodem_allRegions">
+<h2><small>Sociodemographics by Medicare Region</small></h2>
+    
+<div class="row">
+  <div class="column">
+    <h3><b><i><small>Age Groups</small></i></b></h3>
+   <iframe src="maps/1_4_age_fullDataset.html" style="border:none;" height=260 width=300></iframe>
+  </div>
+  <div class="column">
+    <h3><b><i><small>Race/Ethnicity</small></i></b></h3>
+       <iframe src="maps/1_5_age_fullDataset.html" style="border:none;" height=260 width=300></iframe>
+  </div>
+</div>
+
+
   
-  
-<div class="main" id="section1">
+<div class="main" id="2_type_allRegions">
 <h2><small>Type of Coverage and Eligibility by Medicare Region</small></h2>
     
 <div class="row">
   <div class="column">
     <h3><b><i><small>Eligibility</small></i></b></h3>
-   <iframe src="maps/MembershipType_fullDataset.html" style="border:none;" height=260 width=300></iframe>
+   <iframe src="maps/1_2_MembershipType_fullDataset.html" style="border:none;" height=260 width=300></iframe>
   </div>
   <div class="column">
     <h3><b><i><small>Type of Coverage</small></i></b></h3>
-       <iframe src="maps/PlanType_fullDataset.html" style="border:none;" height=260 width=300></iframe>
+       <iframe src="maps/1_3_PlanType_fullDataset.html" style="border:none;" height=260 width=300></iframe>
   </div>
 </div>
 
 <div class="row">
   <div class="column">
     <h3><b><i><small>IHAP Levels</small></i></b></h3>
-   <iframe src="maps/IHAPlevel_fullDataset.html" style="border:none;" height=260 width=300></iframe>
+   <iframe src="maps/1_1_IHAPlevel_fullDatase.html" style="border:none;" height=260 width=300></iframe>
   </div>
   <div class="column">
  <br>
