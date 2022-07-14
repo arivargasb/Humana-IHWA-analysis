@@ -158,14 +158,7 @@ layout: default
    </div>
  <br>
  <br>  
- <br>
- <br>  
- <br>  
- <br>
- <br>  
- <br>
- <br>  
- <br>    
+
 <h2><small>Members in an Individual Plan</small></h2>
 <div class="row">
   <div class="column">
