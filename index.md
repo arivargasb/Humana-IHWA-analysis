@@ -57,6 +57,7 @@ layout: default
     <h3><b><i><small>Race/Ethnicity</small></i></b></h3>
        <iframe src="maps/1_5_race_fullDataset.html" style="border:none;" height=260 width=300></iframe>
   </div>
+<button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>  
 </div>
  <br>
  <br>
@@ -104,6 +105,7 @@ layout: default
 <!--     <p>[Add interpretation here]</p> -->
   </div>
 </div>
+<button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>  
 </div>
  <br>
  <br>
@@ -132,6 +134,7 @@ layout: default
    <iframe src="maps/1_8_referrals_fullDataset.html" style="border:none;" height=260 width=300></iframe>
   </div>
 </div>  
+<button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>  
 </div>
   
  <br>
@@ -170,6 +173,7 @@ layout: default
        <iframe src="maps/3_2_referrals_individualPlan.html" style="border:none;" height=260 width=300></iframe>
   </div>
 </div>
+<button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>  
 </div>  
   
  <br>
@@ -208,6 +212,7 @@ layout: default
        <iframe src="maps/5_2_referrals_dual.html" style="border:none;" height=260 width=300></iframe>
   </div>
 </div>
+<button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>  
 </div>  
   
  <br>
@@ -246,6 +251,7 @@ layout: default
        <iframe src="maps/8_2_referrals_PEEHIP.html" style="border:none;" height=260 width=300></iframe>
   </div>
 </div>
+<button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>   
 </div>  
   
  <br>
@@ -284,21 +290,9 @@ layout: default
        <iframe src="maps/10_2_referrals_NCSHP.html" style="border:none;" height=260 width=300></iframe>
   </div>
 </div>
+<button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>   
 </div>  
-  
- <br>
- <br>
- <br>
- <br>
- <br>
- <br>
- <br>
- <br>
- <br>
- <br>      
 
-  
-<button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>
 
 <script>
 //Get the button
