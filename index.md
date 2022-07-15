@@ -5,7 +5,6 @@ layout: default
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 
-<button onclick="topFunction()" id="Btn" title="Go to top">Top</button>   
  <div>
 <div id="title">
   <img src="images/humanaLogo2.png">
@@ -295,33 +294,41 @@ layout: default
 <div class="row">
   <div class="column">
     <h3><b><i><small>IHWA indicators</small></i></b></h3>
-   <iframe src="maps/10_1_IHWA_NCSHP.html" style="border:none;" height=260 width=300></iframe>
+   <iframe src="maps/10_1_IHWA_NCSHP.html" style="border:none;" height=290 width=300></iframe>
   </div>
   <div class="column">
     <h3><b><i><small>Referrals</small></i></b></h3>
-       <iframe src="maps/10_2_referrals_NCSHP.html" style="border:none;" height=260 width=300></iframe>
+       <iframe src="maps/10_2_referrals_NCSHP.html" style="border:none;" height=290 width=300></iframe>
   </div>
 </div>
     <br>
  <br>
 <button onclick="topFunction()" id="Btn" title="Go to top">Top</button>   
 </div>  
+
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>    
   
-  
-<div class="main" id="8_race">
-<br>
-<br>      
+<div class="main" id="8_allMembers">
+    
 <h2><small>IHWA Indicators - All Members</small></h2>
-<br>
-<br>   
+
 <div class="row">
   <div class="column">
     <h3><b><i><small>By Race</small></i></b></h3>
-   <iframe src="charts/1_1_IHWA_race.jpg" style="border:none;" height=260 width=300></iframe>
+   <iframe src="charts/1_1_IHWA_race.jpg" style="border:none;" height=290 width=300></iframe>
   </div>
   <div class="column">
     <h3><b><i><small>By Income</small></i></b></h3>
-       <iframe src="charts/1_2_IHWA_income.jpg" style="border:none;" height=260 width=300></iframe>
+       <iframe src="charts/1_2_IHWA_income.jpg" style="border:none;" height=290 width=300></iframe>
   </div>
   </div>
  <br>
@@ -338,43 +345,31 @@ layout: default
  <br>
  <br>
  <br>
- <br>    
- <br>
- <br>
- <br>
- <br>
- <br>
- <br>
- <br>
- <br>
- <br>
- <br>      
+ <br>       
 
 <div class="main" id="9_incomeRace">
-<br>
-<br>      
+
 <h2><small>IHWA Indicators - By Race & Income</small></h2>
-<br>
-<br>   
+
 <div class="row">
   <div class="column">
     <h3><b><i><small>Poor and Near Poor</small></i></b></h3>
-   <iframe src="charts/2_1_IHWA_racePNP.jpg" style="border:none;" height=260 width=300></iframe>
+   <iframe src="charts/2_1_IHWA_racePNP.jpg" style="border:none;" height=290 width=300></iframe>
   </div>
   <div class="column">
     <h3><b><i><small>Low Midle-Class</small></i></b></h3>
-       <iframe src="charts/2_2_IHWA_raceLMC.jpg" style="border:none;" height=260 width=300></iframe>
+       <iframe src="charts/2_2_IHWA_raceLMC.jpg" style="border:none;" height=290 width=300></iframe>
   </div>
   </div>
   
   <div class="row">
   <div class="column">
     <h3><b><i><small>Middle Middle-Class</small></i></b></h3>
-   <iframe src="charts/2_3_IHWA_raceMMC.jpg" style="border:none;" height=260 width=300></iframe>
+   <iframe src="charts/2_3_IHWA_raceMMC.jpg" style="border:none;" height=290 width=300></iframe>
   </div>
   <div class="column">
     <h3><b><i><small>Upper Middle-Class</small></i></b></h3>
-       <iframe src="charts/2_4_IHWA_raceUMC.jpg" style="border:none;" height=260 width=300></iframe>
+       <iframe src="charts/2_4_IHWA_raceUMC.jpg" style="border:none;" height=290 width=300></iframe>
   </div>
   </div>
  <br>
@@ -391,44 +386,33 @@ layout: default
  <br>
  <br>
  <br>
- <br>    
- <br>
- <br>
- <br>
- <br>
- <br>
- <br>
- <br>
- <br>
- <br>
- <br>        
+ <br>         
 
 
 <div class="main" id="10_incomeAge">
 <br>
 <br>      
 <h2><small>IHWA Indicators - By Age & Income</small></h2>
-<br>
-<br>   
+ 
 <div class="row">
   <div class="column">
     <h3><b><i><small>Poor and Near Poor</small></i></b></h3>
-   <iframe src="charts/3_1_IHWA_agePNP.jpg" style="border:none;" height=260 width=300></iframe>
+   <iframe src="charts/3_1_IHWA_agePNP.jpg" style="border:none;" height=290 width=300></iframe>
   </div>
   <div class="column">
     <h3><b><i><small>Low Midle-Class</small></i></b></h3>
-       <iframe src="charts/3_2_IHWA_ageLMC.jpg" style="border:none;" height=260 width=300></iframe>
+       <iframe src="charts/3_2_IHWA_ageLMC.jpg" style="border:none;" height=290 width=300></iframe>
   </div>
   </div>
   
   <div class="row">
   <div class="column">
     <h3><b><i><small>Middle Middle-Class</small></i></b></h3>
-   <iframe src="charts/3_3_IHWA_ageMMC.jpg" style="border:none;" height=260 width=300></iframe>
+   <iframe src="charts/3_3_IHWA_ageMMC.jpg" style="border:none;" height=290 width=300></iframe>
   </div>
   <div class="column">
     <h3><b><i><small>Upper Middle-Class</small></i></b></h3>
-       <iframe src="charts/3_4_IHWA_ageUMC.jpg" style="border:none;" height=260 width=300></iframe>
+       <iframe src="charts/3_4_IHWA_ageUMC.jpg" style="border:none;" height=290 width=300></iframe>
   </div>
   </div>
  <br>
