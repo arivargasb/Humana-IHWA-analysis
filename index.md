@@ -156,7 +156,7 @@ layout: default
   
 <div class="row">
  <br>    
-    <h3><b><i><small><center>Referrals</center></small></i></b></h3>
+    <h3><b><i><small><center>Types of Referrals</center></small></i></b></h3>
   <div class="column">
    <iframe src="maps/1_7_referrals_fullDataset.html" style="border:none;" height=260 width=300></iframe>
   </div>
