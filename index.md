@@ -219,3 +219,79 @@ layout: default
  <br>
  <br>
  <br>    
+  
+ <div class="main" id="6_plans1">
+<h2><small>WVPEIA members</small></h2>
+<div class="row">
+  <div class="column">
+    <h3><b><i><small>IHWA indicators</small></i></b></h3>
+   <iframe src="maps/7_1_IHWA_WVPEIA.html" style="border:none;" height=260 width=300></iframe>
+  </div>
+  <div class="column">
+    <h3><b><i><small>Referrals</small></i></b></h3>
+       <iframe src="maps/7_1_referrals_WVPEIA.html" style="border:none;" height=260 width=300></iframe>
+  </div>
+   </div>
+ <br>
+  
+<h2><small>PEEHIP members</small></h2>
+<div class="row">
+  <div class="column">
+    <h3><b><i><small>IHWA indicators</small></i></b></h3>
+   <iframe src="maps/8_1_IHWA_PEEHIP.html" style="border:none;" height=260 width=300></iframe>
+  </div>
+  <div class="column">
+    <h3><b><i><small>Referrals</small></i></b></h3>
+       <iframe src="maps/8_1_referrals_PEEHIP.html" style="border:none;" height=260 width=300></iframe>
+  </div>
+</div>
+</div>  
+  
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>    
+  
+ <div class="main" id="7_plans2">
+<h2><small>PBUCC members</small></h2>
+<div class="row">
+  <div class="column">
+    <h3><b><i><small>IHWA indicators</small></i></b></h3>
+   <iframe src="maps/9_1_IHWA_PBUCC.html" style="border:none;" height=260 width=300></iframe>
+  </div>
+  <div class="column">
+    <h3><b><i><small>Referrals</small></i></b></h3>
+       <iframe src="maps/9_1_referrals_PBUCC.html" style="border:none;" height=260 width=300></iframe>
+  </div>
+   </div>
+ <br>
+  
+<h2><small>NCSHP members</small></h2>
+<div class="row">
+  <div class="column">
+    <h3><b><i><small>IHWA indicators</small></i></b></h3>
+   <iframe src="maps/10_1_IHWA_NCSHP.html" style="border:none;" height=260 width=300></iframe>
+  </div>
+  <div class="column">
+    <h3><b><i><small>Referrals</small></i></b></h3>
+       <iframe src="maps/10_1_referrals_NCSHP.html" style="border:none;" height=260 width=300></iframe>
+  </div>
+</div>
+</div>  
+  
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>      
