@@ -10,10 +10,9 @@ layout: default
  <br>
   <h1 style="color:#76c8c8"><em><center>IHWA Analysis</center></em></h1>          
  
-<nav>
   <div class="row">
   <div class="column">
-    <p><b>1. All Members by Region</b>
+    <p><b>1. All Members by Region</b></p>
        <ul>
         <li><a href="#1_sociodem_allRegions">Sociodemographics</a></li>
         <li><a href="#2_memberType_allRegions">Coverage & Eligibility</a></li>
@@ -21,7 +20,7 @@ layout: default
       </ul>
      </div>
      <div class="column">
-  <b>2. Type of Membership & Region</b>
+   <p><b>2. Type of Membership & Region</b></p>
    <ul>
         <li><a href="#4_coverage">By Coverage</a></li>
         <li><a href="#5_eligibility">By Eligibility</a></li>
@@ -30,14 +29,14 @@ layout: default
     </div>  
    <div class="row">
   <div class="column">
-    <b>3. Plan & Region</b>
+    <b><p>3. Plan & Region</b></p>
       <ul>
         <li><a href="#6_plans1">WVPEIA & PEEHIP</a></li>
         <li><a href="#7_plans2">PBUCC & NCSHP</a></li>
       </ul>
       </div>
       <div class="column">
-    <b>4. IHWA Indicators: All Members</b>
+    <b><p>4. IHWA Indicators: All Members</b></p>
        <ul>
         <li><a href="#8_allMembers">By Race & Income</li>
         <li><a href="#9_incomeRace">By Race per Each Income Level</a></li>
@@ -45,15 +44,10 @@ layout: default
       </ul>
     </div>
     </div>
-
-</nav>
-
 </div>
-
 
 <br>
  <br>
-  <p>[Add intro (and takeaways?) here]</p>
  <br>
  <br>
  <br>
