@@ -73,21 +73,21 @@ layout: default
  <div class="row">
   <div class="column">
     <h3><b><i><small>Age</small></i></b></h3>
-   <iframe src="maps/1_4_age_fullDataset.html" style="border:2px solid gray;" height=260 width=300 ></iframe>
+   <iframe src="maps/1_4_age_fullDataset.html" style="border:2px solid gray;" height=260 width=260 ></iframe>
   </div>
   <div class="column">
     <h3><b><i><small>Race/Ethnicity</small></i></b></h3>
-       <iframe src="maps/1_5_race_fullDataset.html" style="border:2px solid gray;" height=260 width=300></iframe>
+       <iframe src="maps/1_5_race_fullDataset.html" style="border:2px solid gray;" height=260 width=260></iframe>
   </div>
   <br>
  <br>
  </div>
    <br>
- <p style="font-size:80%;">
+ <p style="font-size:60%; margin: 10px;">
 The Southeast, Central and Gulf State regions have the largest proportions of members under 65 years of age, while the Desert Pacific, North Central Matrix, Florida and Intermountain regions have the largest proportions of members with more than 65 years of age.
    <br>
     <br>
-In termf or race/ethnicity, the Intermountain, Central West and North Central regions have the highest presence of American Indian and Alaska Native (AIAN) members; the Desert Pacific North Central Signify and Northeast regions serve a higher proportion of Asian Pacific Americans (API) members; Desert Pacific, Central West and Texas regions have a higher share of members who identify as Hispanic; and the proportion of members who identify as Black is higher in the Gulf-State Matrix, Signify and Southeast regions.
+In terms or race/ethnicity, the Intermountain, Central West and North Central regions have the highest presence of American Indian and Alaska Native (AIAN) members; the Desert Pacific North Central Signify and Northeast regions serve a higher proportion of Asian Pacific Americans (API) members; Desert Pacific, Central West and Texas regions have a higher share of members who identify as Hispanic; and the proportion of members who identify as Black is higher in the Gulf-State Matrix, Signify and Southeast regions.
    <br>
   </p>
 <button onclick="topFunction()" id="Btn" title="Go to top">Top</button>  
