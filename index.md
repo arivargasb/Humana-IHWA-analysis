@@ -85,7 +85,10 @@ layout: default
  <br>
  </div>
    <br>
-
+The Southeast, Central and Gulf State regions have the largest proportions of members under 65 years of age, while the Desert Pacific, North Central Matrix, Florida and Intermountain regions have the largest proportions of members with more than 65 years of age.
+   <br>
+In termf or race/ethnicity, the Intermountain, Central West and North Central regions have the highest presence of American Indian and Alaska Native (AIAN) members; the Desert Pacific North Central Signify and Northeast regions serve a higher proportion of Asian Pacific Americans (API) members; Desert Pacific, Central West and Texas regions have a higher share of members who identify as Hispanic; and the proportion of members who identify as Black is higher in the Gulf-State Matrix, Signify and Southeast regions.
+   <br>
 <button onclick="topFunction()" id="Btn" title="Go to top">Top</button>  
 </div>
  <br>
@@ -114,18 +117,18 @@ layout: default
 <div class="row">
   <div class="column">
     <h3><b><i><small>Eligibility</small></i></b></h3>
-   <iframe src="maps/1_2_MembershipType_fullDataset.html" style="border:none;" height=260 width=300></iframe>
+   <iframe src="maps/1_2_MembershipType_fullDataset.html" style="border:2px solid gray;" height=260 width=300></iframe>
   </div>
   <div class="column">
     <h3><b><i><small>Type of Coverage</small></i></b></h3>
-       <iframe src="maps/1_3_PlanType_fullDataset.html" style="border:none;" height=260 width=300></iframe>
+       <iframe src="maps/1_3_PlanType_fullDataset.html" style="border:2px solid gray;" height=260 width=300></iframe>
   </div>
 </div>
 
 <div class="row">
   <div class="column">
     <h3><b><i><small>IHAP Levels</small></i></b></h3>
-   <iframe src="maps/1_1_IHAPlevel_fullDataset.html" style="border:none;" height=260 width=300></iframe>
+   <iframe src="maps/1_1_IHAPlevel_fullDataset.html" style="border:2px solid gray;" height=260 width=300></iframe>
   </div>
   <div class="column">
  <br>
@@ -152,17 +155,17 @@ layout: default
 <div class="main" id="3_ihwa_fullDataset">
 <h2><small>IHWA & Referrals by Medicare Region</small></h2>
     <h3><b><i><small>IHWA indicators</small></i></b></h3>
-   <iframe src="maps/1_6_IHWA_fullDataset.html" style="border:none;" height=260 width=300></iframe>
+   <iframe src="maps/1_6_IHWA_fullDataset.html" style="border:2px solid gray;" height=260 width=300></iframe>
   
 <div class="row">
  <br>    
     <h3><b><i><small><center>Types of Referrals</center></small></i></b></h3>
   <div class="column">
-   <iframe src="maps/1_7_referrals_fullDataset.html" style="border:none;" height=260 width=300></iframe>
+   <iframe src="maps/1_7_referrals_fullDataset.html" style="border:2px solid gray;" height=260 width=300></iframe>
   </div>
   <div class="column">
 
-   <iframe src="maps/1_8_referrals_fullDataset.html" style="border:none;" height=260 width=300></iframe>
+   <iframe src="maps/1_8_referrals_fullDataset.html" style="border:2px solid gray;" height=260 width=300></iframe>
   </div>
 </div>  
   
@@ -185,11 +188,11 @@ layout: default
 <div class="row">
   <div class="column">
     <h3><b><i><small>IHWA indicators</small></i></b></h3>
-   <iframe src="maps/2_1_IHWA_groupPlan.html" style="border:none;" height=260 width=300></iframe>
+   <iframe src="maps/2_1_IHWA_groupPlan.html" style="border:2px solid gray;" height=260 width=300></iframe>
   </div>
   <div class="column">
     <h3><b><i><small>Referrals</small></i></b></h3>
-       <iframe src="maps/2_2_referrals_groupPlan.html" style="border:none;" height=260 width=300></iframe>
+       <iframe src="maps/2_2_referrals_groupPlan.html" style="border:2px solid gray;" height=260 width=300></iframe>
   </div>
    </div>
  <br>
@@ -198,11 +201,11 @@ layout: default
 <div class="row">
   <div class="column">
     <h3><b><i><small>IHWA indicators</small></i></b></h3>
-   <iframe src="maps/3_1_IHWA_individualPlan.html" style="border:none;" height=260 width=300></iframe>
+   <iframe src="maps/3_1_IHWA_individualPlan.html" style="border:2px solid gray;" height=260 width=300></iframe>
   </div>
   <div class="column">
     <h3><b><i><small>Referrals</small></i></b></h3>
-       <iframe src="maps/3_2_referrals_individualPlan.html" style="border:none;" height=260 width=300></iframe>
+       <iframe src="maps/3_2_referrals_individualPlan.html" style="border:2px solid gray;" height=260 width=300></iframe>
   </div>
 </div>
    <br>
@@ -226,11 +229,11 @@ layout: default
 <div class="row">
   <div class="column">
     <h3><b><i><small>IHWA indicators</small></i></b></h3>
-   <iframe src="maps/4_1_IHWA_SNP.html" style="border:none;" height=260 width=300></iframe>
+   <iframe src="maps/4_1_IHWA_SNP.html" style="border:2px solid gray;" height=260 width=300></iframe>
   </div>
   <div class="column">
     <h3><b><i><small>Referrals</small></i></b></h3>
-       <iframe src="maps/4_2_referrals_SNP.html" style="border:none;" height=260 width=300></iframe>
+       <iframe src="maps/4_2_referrals_SNP.html" style="border:2px solid gray;" height=260 width=300></iframe>
   </div>
    </div>
  <br>
@@ -239,11 +242,11 @@ layout: default
 <div class="row">
   <div class="column">
     <h3><b><i><small>IHWA indicators</small></i></b></h3>
-   <iframe src="maps/5_1_IHWA_dual.html" style="border:none;" height=260 width=300></iframe>
+   <iframe src="maps/5_1_IHWA_dual.html" style="border:2px solid gray;" height=260 width=300></iframe>
   </div>
   <div class="column">
     <h3><b><i><small>Referrals</small></i></b></h3>
-       <iframe src="maps/5_2_referrals_dual.html" style="border:none;" height=260 width=300></iframe>
+       <iframe src="maps/5_2_referrals_dual.html" style="border:2px solid gray;" height=260 width=300></iframe>
   </div>
 </div>
    <br>
@@ -267,11 +270,11 @@ layout: default
 <div class="row">
   <div class="column">
     <h3><b><i><small>IHWA indicators</small></i></b></h3>
-   <iframe src="maps/7_1_IHWA_WVPEIA.html" style="border:none;" height=260 width=300></iframe>
+   <iframe src="maps/7_1_IHWA_WVPEIA.html" style="border:2px solid gray;" height=260 width=300></iframe>
   </div>
   <div class="column">
     <h3><b><i><small>Referrals</small></i></b></h3>
-       <iframe src="maps/7_2_referrals_WVPEIA.html" style="border:none;" height=260 width=300></iframe>
+       <iframe src="maps/7_2_referrals_WVPEIA.html" style="border:2px solid gray;" height=260 width=300></iframe>
   </div>
    </div>
  <br>
@@ -280,11 +283,11 @@ layout: default
 <div class="row">
   <div class="column">
     <h3><b><i><small>IHWA indicators</small></i></b></h3>
-   <iframe src="maps/8_1_IHWA_PEEHIP.html" style="border:none;" height=260 width=300></iframe>
+   <iframe src="maps/8_1_IHWA_PEEHIP.html" style="border:2px solid gray;" height=260 width=300></iframe>
   </div>
   <div class="column">
     <h3><b><i><small>Referrals</small></i></b></h3>
-       <iframe src="maps/8_2_referrals_PEEHIP.html" style="border:none;" height=260 width=300></iframe>
+       <iframe src="maps/8_2_referrals_PEEHIP.html" style="border:2px solid gray;" height=260 width=300></iframe>
   </div>
 </div>
     <br>
@@ -308,11 +311,11 @@ layout: default
 <div class="row">
   <div class="column">
     <h3><b><i><small>IHWA indicators</small></i></b></h3>
-   <iframe src="maps/9_1_IHWA_PBUCC.html" style="border:none;" height=260 width=300></iframe>
+   <iframe src="maps/9_1_IHWA_PBUCC.html" style="border:2px solid gray;" height=260 width=300></iframe>
   </div>
   <div class="column">
     <h3><b><i><small>Referrals</small></i></b></h3>
-       <iframe src="maps/9_2_referrals_PBUCC.html" style="border:none;" height=260 width=300></iframe>
+       <iframe src="maps/9_2_referrals_PBUCC.html" style="border:2px solid gray;" height=260 width=300></iframe>
   </div>
    </div>
  <br>
@@ -321,11 +324,11 @@ layout: default
 <div class="row">
   <div class="column">
     <h3><b><i><small>IHWA indicators</small></i></b></h3>
-   <iframe src="maps/10_1_IHWA_NCSHP.html" style="border:none;" height=290 width=300></iframe>
+   <iframe src="maps/10_1_IHWA_NCSHP.html" style="border:2px solid gray;" height=290 width=300></iframe>
   </div>
   <div class="column">
     <h3><b><i><small>Referrals</small></i></b></h3>
-       <iframe src="maps/10_2_referrals_NCSHP.html" style="border:none;" height=290 width=300></iframe>
+       <iframe src="maps/10_2_referrals_NCSHP.html" style="border:2px solid gray;" height=290 width=300></iframe>
   </div>
 </div>
       <br>
@@ -352,11 +355,11 @@ layout: default
 <div class="row">
   <div class="column">
     <h3><b><i><small>By Race</small></i></b></h3>
-   <iframe src="charts/1_1_IHWA_race.jpg" style="border:none;" height=290 width=300></iframe>
+   <iframe src="charts/1_1_IHWA_race.jpg" style="border:2px solid gray;" height=290 width=300></iframe>
   </div>
   <div class="column">
     <h3><b><i><small>By Income</small></i></b></h3>
-       <iframe src="charts/1_2_IHWA_income.jpg" style="border:none;" height=290 width=300></iframe>
+       <iframe src="charts/1_2_IHWA_income.jpg" style="border:2px solid gray;" height=290 width=300></iframe>
   </div>
   </div>
  <br>
@@ -390,11 +393,11 @@ layout: default
 <div class="row">
   <div class="column">
     <h3><b><i><small>Poor and Near Poor</small></i></b></h3>
-   <iframe src="charts/2_1_IHWA_racePNP.jpg" style="border:none;" height=290 width=300></iframe>
+   <iframe src="charts/2_1_IHWA_racePNP.jpg" style="border:2px solid gray;" height=290 width=300></iframe>
   </div>
   <div class="column">
     <h3><b><i><small>Low Midle-Class</small></i></b></h3>
-       <iframe src="charts/2_2_IHWA_raceLMC.jpg" style="border:none;" height=290 width=300></iframe>
+       <iframe src="charts/2_2_IHWA_raceLMC.jpg" style="border:2px solid gray;" height=290 width=300></iframe>
   </div>
   </div>
    <br>
@@ -402,11 +405,11 @@ layout: default
   <div class="row">
   <div class="column">
     <h3><b><i><small>Middle Middle-Class</small></i></b></h3>
-   <iframe src="charts/2_3_IHWA_raceMMC.jpg" style="border:none;" height=290 width=300></iframe>
+   <iframe src="charts/2_3_IHWA_raceMMC.jpg" style="border:2px solid gray;" height=290 width=300></iframe>
   </div>
   <div class="column">
     <h3><b><i><small>Upper Middle-Class</small></i></b></h3>
-       <iframe src="charts/2_4_IHWA_raceUMC.jpg" style="border:none;" height=290 width=300></iframe>
+       <iframe src="charts/2_4_IHWA_raceUMC.jpg" style="border:2px solid gray;" height=290 width=300></iframe>
   </div>
   </div>
  <br>
@@ -435,11 +438,11 @@ layout: default
 <div class="row">
   <div class="column">
     <h3><b><i><small>Poor and Near Poor</small></i></b></h3>
-   <iframe src="charts/3_1_IHWA_agePNP.jpg" style="border:none;" height=290 width=300></iframe>
+   <iframe src="charts/3_1_IHWA_agePNP.jpg" style="border:2px solid gray;" height=290 width=300></iframe>
   </div>
   <div class="column">
     <h3><b><i><small>Low Midle-Class</small></i></b></h3>
-       <iframe src="charts/3_2_IHWA_ageLMC.jpg" style="border:none;" height=290 width=300></iframe>
+       <iframe src="charts/3_2_IHWA_ageLMC.jpg" style="border:2px solid gray;" height=290 width=300></iframe>
   </div>
   </div>
  <br>
@@ -447,11 +450,11 @@ layout: default
   <div class="row">
   <div class="column">
     <h3><b><i><small>Middle Middle-Class</small></i></b></h3>
-   <iframe src="charts/3_3_IHWA_ageMMC.jpg" style="border:none;" height=290 width=300></iframe>
+   <iframe src="charts/3_3_IHWA_ageMMC.jpg" style="border:2px solid gray;" height=290 width=300></iframe>
   </div>
   <div class="column">   
     <h3><b><i><small>Upper Middle-Class</small></i></b></h3>
-       <iframe src="charts/3_4_IHWA_ageUMC.jpg" style="border:none;" height=290 width=300></iframe>
+       <iframe src="charts/3_4_IHWA_ageUMC.jpg" style="border:2px solid gray;" height=290 width=300></iframe>
   </div>
   </div>
  <br>
