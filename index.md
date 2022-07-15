@@ -292,8 +292,155 @@ layout: default
 </div>
 <button onclick="topFunction()" id="Btn" title="Go to top">Top</button>   
 </div>  
+  
+  
+<div class="main" id="8_race">
+<br>
+<br>      
+<h2><small>IHWA Indicators - All Members</small></h2>
+<br>
+<br>   
+<div class="row">
+  <div class="column">
+    <h3><b><i><small>By Race</small></i></b></h3>
+   <iframe src="charts/1_1_IHWA_race.html" style="border:none;" height=260 width=300></iframe>
+  </div>
+  <div class="column">
+    <h3><b><i><small>By Income</small></i></b></h3>
+       <iframe src="charts/1_2_IHWA_income.html" style="border:none;" height=260 width=300></iframe>
+  </div>
+  </div>
+
+<button onclick="topFunction()" id="Btn" title="Go to top">Top</button>   
+</div>  
+  
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>    
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>      
+
+<div class="main" id="9_incomeRace">
+<br>
+<br>      
+<h2><small>IHWA Indicators - By Race & Income</small></h2>
+<br>
+<br>   
+<div class="row">
+  <div class="column">
+    <h3><b><i><small>Poor and Near Poor</small></i></b></h3>
+   <iframe src="charts/2_1_IHWA_racePNP.html" style="border:none;" height=260 width=300></iframe>
+  </div>
+  <div class="column">
+    <h3><b><i><small>Low Midle-Class</small></i></b></h3>
+       <iframe src="charts/2_2_IHWA_raceLMC.html" style="border:none;" height=260 width=300></iframe>
+  </div>
+  </div>
+  
+  <div class="row">
+  <div class="column">
+    <h3><b><i><small>Middle Middle-Class</small></i></b></h3>
+   <iframe src="charts/2_3_IHWA_raceMMC.html" style="border:none;" height=260 width=300></iframe>
+  </div>
+  <div class="column">
+    <h3><b><i><small>Upper Middle-Class</small></i></b></h3>
+       <iframe src="charts/2_4_IHWA_raceUMC.html" style="border:none;" height=260 width=300></iframe>
+  </div>
+  </div>
+
+<button onclick="topFunction()" id="Btn" title="Go to top">Top</button>   
+</div>  
+  
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>    
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>        
 
 
+<div class="main" id="10_incomeAge">
+<br>
+<br>      
+<h2><small>IHWA Indicators - By Age & Income</small></h2>
+<br>
+<br>   
+<div class="row">
+  <div class="column">
+    <h3><b><i><small>Poor and Near Poor</small></i></b></h3>
+   <iframe src="charts/3_1_IHWA_agePNP.html" style="border:none;" height=260 width=300></iframe>
+  </div>
+  <div class="column">
+    <h3><b><i><small>Low Midle-Class</small></i></b></h3>
+       <iframe src="charts/3_2_IHWA_ageLMC.html" style="border:none;" height=260 width=300></iframe>
+  </div>
+  </div>
+  
+  <div class="row">
+  <div class="column">
+    <h3><b><i><small>Middle Middle-Class</small></i></b></h3>
+   <iframe src="charts/3_3_IHWA_ageMMC.html" style="border:none;" height=260 width=300></iframe>
+  </div>
+  <div class="column">
+    <h3><b><i><small>Upper Middle-Class</small></i></b></h3>
+       <iframe src="charts/3_4_IHWA_ageUMC.html" style="border:none;" height=260 width=300></iframe>
+  </div>
+  </div>
+
+<button onclick="topFunction()" id="Btn" title="Go to top">Top</button>   
+</div>  
+  
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>    
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>        
+  
+  
 <script>
 //Get the button
 var mybutton = document.getElementById("Btn");
