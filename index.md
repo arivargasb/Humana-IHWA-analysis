@@ -12,35 +12,35 @@ layout: default
  
   <div class="row">
   <div class="column">
-    <p><b>1. All Members by Region</b></p>
+    <p style="color:#769fc8"><b>1. All Members by Region</b></p>
        <ul>
-        <li><a href="#1_sociodem_allRegions">Sociodemographics</a></li>
-        <li><a href="#2_memberType_allRegions">Coverage & Eligibility</a></li>
-        <li><a href="#3_ihwa_fullDataset">IHWA & Referrals</a></li>
+        <li><style="color:#d7d767" a href="#1_sociodem_allRegions">Sociodemographics</a></li>
+        <li><style="color:#d7d767" a href="#2_memberType_allRegions">Coverage & Eligibility</a></li>
+        <li><style="color:#d7d767" a href="#3_ihwa_fullDataset">IHWA & Referrals</a></li>
       </ul>
      </div>
      <div class="column">
-   <p><b>2. Type of Membership & Region</b></p>
+   <p style="color:#769fc8"><b>2. Type of Membership & Region</b></p>
    <ul>
-        <li><a href="#4_coverage">By Coverage</a></li>
-        <li><a href="#5_eligibility">By Eligibility</a></li>
+        <li><a style="color:#d7d767" href="#4_coverage">By Coverage</a></li>
+        <li><a style="color:#d7d767" href="#5_eligibility">By Eligibility</a></li>
    </ul>      
    </div>   
     </div>  
    <div class="row">
   <div class="column">
-    <b><p>3. Plan & Region</b></p>
+    <p style="color:#769fc8"><b>3. Plan & Region</b></p>
       <ul>
-        <li><a href="#6_plans1">WVPEIA & PEEHIP</a></li>
-        <li><a href="#7_plans2">PBUCC & NCSHP</a></li>
+        <li><a style="color:#d7d767" href="#6_plans1">WVPEIA & PEEHIP</a></li>
+        <li><a style="color:#d7d767" href="#7_plans2">PBUCC & NCSHP</a></li>
       </ul>
       </div>
       <div class="column">
-    <b><p>4. IHWA Indicators: All Members</b></p>
+    <p style="color:#769fc8"><b>4. IHWA Indicators: All Members</b></p>
        <ul>
-        <li><a href="#8_allMembers">By Race & Income</li>
-        <li><a href="#9_incomeRace">By Race per Each Income Level</a></li>
-         <li><a href="#10_incomeAge">By Age per Each Income Level</a></li>
+        <li><a style="color:#d7d767" href="#8_allMembers">By Race & Income</li>
+        <li><a style="color:#d7d767" href="#9_incomeRace">By Race per Each Income Level</a></li>
+         <li><a style="color:#d7d767" href="#10_incomeAge">By Age per Each Income Level</a></li>
       </ul>
     </div>
     </div>
