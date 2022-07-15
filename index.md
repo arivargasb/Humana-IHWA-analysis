@@ -87,6 +87,7 @@ layout: default
    <br>
 The Southeast, Central and Gulf State regions have the largest proportions of members under 65 years of age, while the Desert Pacific, North Central Matrix, Florida and Intermountain regions have the largest proportions of members with more than 65 years of age.
    <br>
+    <br>
 In termf or race/ethnicity, the Intermountain, Central West and North Central regions have the highest presence of American Indian and Alaska Native (AIAN) members; the Desert Pacific North Central Signify and Northeast regions serve a higher proportion of Asian Pacific Americans (API) members; Desert Pacific, Central West and Texas regions have a higher share of members who identify as Hispanic; and the proportion of members who identify as Black is higher in the Gulf-State Matrix, Signify and Southeast regions.
    <br>
 <button onclick="topFunction()" id="Btn" title="Go to top">Top</button>  
