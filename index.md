@@ -9,7 +9,7 @@ layout: default
 <div id="title">
   <img src="images/humanaLogo2.png">
  <br>
-  <h1><em><center>IHWA Analysis</center></em></h1>          
+  <h1 style="color:#76c8c8"><em><center>IHWA Analysis</center></em></h1>          
 </div>
  
 <nav>
@@ -464,16 +464,12 @@ In terms of income, members with the highest income level have a greater chance 
   </div>
   </div>
     <p style="font-size:75%; margin: 10px;">
-  </div>
-   </div>
-  </div>
-    </div>
-  </div>
+ <br>
+ <br>
+ <br>
 Looking at the IHWA indicators for each income level separately, the trends in behavior by race don’t seem to change across income levels.
   </p> 
  <br>
- <br>
-  <br>
 <button onclick="topFunction()" id="Btn" title="Go to top">Top</button>   
 </div>  
   
