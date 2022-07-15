@@ -60,6 +60,8 @@ layout: default
   <br>
  <br>
  </div>
+   <br>
+
 <button onclick="topFunction()" id="Btn" title="Go to top">Top</button>  
 </div>
  <br>
@@ -302,6 +304,7 @@ layout: default
        <iframe src="maps/10_2_referrals_NCSHP.html" style="border:none;" height=290 width=300></iframe>
   </div>
 </div>
+      <br>
     <br>
  <br>
 <button onclick="topFunction()" id="Btn" title="Go to top">Top</button>   
@@ -334,6 +337,7 @@ layout: default
   </div>
  <br>
  <br>
+ <br>
 <button onclick="topFunction()" id="Btn" title="Go to top">Top</button>   
 </div>  
   
@@ -347,6 +351,13 @@ layout: default
  <br>
  <br>
  <br>       
+  <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>   
 
 <div class="main" id="9_incomeRace">
 
@@ -362,7 +373,8 @@ layout: default
        <iframe src="charts/2_2_IHWA_raceLMC.jpg" style="border:none;" height=290 width=300></iframe>
   </div>
   </div>
-  
+   <br>
+   <br>
   <div class="row">
   <div class="column">
     <h3><b><i><small>Middle Middle-Class</small></i></b></h3>
@@ -375,6 +387,7 @@ layout: default
   </div>
  <br>
  <br>
+  <br>
 <button onclick="topFunction()" id="Btn" title="Go to top">Top</button>   
 </div>  
   
@@ -405,19 +418,21 @@ layout: default
        <iframe src="charts/3_2_IHWA_ageLMC.jpg" style="border:none;" height=290 width=300></iframe>
   </div>
   </div>
-  
+ <br>
+ <br>
   <div class="row">
   <div class="column">
     <h3><b><i><small>Middle Middle-Class</small></i></b></h3>
    <iframe src="charts/3_3_IHWA_ageMMC.jpg" style="border:none;" height=290 width=300></iframe>
   </div>
-  <div class="column">
+  <div class="column">   
     <h3><b><i><small>Upper Middle-Class</small></i></b></h3>
        <iframe src="charts/3_4_IHWA_ageUMC.jpg" style="border:none;" height=290 width=300></iframe>
   </div>
   </div>
  <br>
  <br>
+ <br> 
 <button onclick="topFunction()" id="Btn" title="Go to top">Top</button>   
 </div>  
   
