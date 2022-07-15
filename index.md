@@ -67,7 +67,8 @@ layout: default
 
 
 <div class="main" id="1_sociodem_allRegions">
-
+ <br>
+  <br>
 <h2><small>Sociodemographics by Medicare Region</small></h2>
 
  <div class="row">
@@ -83,7 +84,7 @@ layout: default
  <br>
  </div>
    <br>
- <p style="font-size:60%; margin: 10px;">
+ <p style="font-size:75%; margin: 10px;">
 The Southeast, Central and Gulf State regions have the largest proportions of members under 65 years of age, while the Desert Pacific, North Central Matrix, Florida and Intermountain regions have the largest proportions of members with more than 65 years of age.
    <br>
     <br>
@@ -135,11 +136,26 @@ In terms or race/ethnicity, the Intermountain, Central West and North Central re
  <br>
  <br>
 
-<!--     <p>[Add interpretation here]</p> -->
+ <p style="font-size:70%; margin: 10px;">
+SNP and/or Dual eligible members tend to be better represented in the Northeast, Southeast, and both Gulf-State Signify and Matrix regions. The southeastern regions also have a higher presence of Black members, and people of color are more likely to be dual-eligible. However, those regions with a higher presence of elderly members don’t show a higher proportion of SNP members.
+ <br>
+The Southeastern region has a considerably higher proportion of members in a group plan. On the other hand, almost all members in the Intermountain, Texas, and Gulf-State Matrix regions are in an individual plan.
+  
+   <br>
+  </p>
+   
   </div>
 </div>
-   <br>
  <br>
+ <br>
+ 
+  <p style="font-size:75%; margin: 10px;">
+In terms of priority to outreach, those regions with the lowest proportion of SNP and/or dual eligible are also those with a lower IHAP level. And the southeastern as well as the Desert Pacific regions have a larger share of both medium and high IHAP members.
+  </p>
+ 
+ <br>
+ <br>
+ 
 <button onclick="topFunction()" id="Btn" title="Go to top">Top</button>  
 </div>
  <br>
