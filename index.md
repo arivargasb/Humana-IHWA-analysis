@@ -6,7 +6,7 @@ layout: default
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 
 <button onclick="topFunction()" id="Btn" title="Go to top">Top</button>   
-
+ <div>
 <div id="title">
   <img src="images/humanaLogo2.png">
  <br>
@@ -456,6 +456,9 @@ layout: default
  <br>
  <br>
  <br>        
+
+   </div>
+  <a href="#" class="top"></a>
   
   
 <script>
