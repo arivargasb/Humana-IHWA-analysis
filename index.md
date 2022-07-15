@@ -5,6 +5,7 @@ layout: default
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 
+<button onclick="topFunction()" id="Btn" title="Go to top">Top</button>   
 
 <div id="title">
   <img src="images/humanaLogo2.png">
@@ -57,6 +58,8 @@ layout: default
     <h3><b><i><small>Race/Ethnicity</small></i></b></h3>
        <iframe src="maps/1_5_race_fullDataset.html" style="border:none;" height=260 width=300></iframe>
   </div>
+  <br>
+ <br>
 <button onclick="topFunction()" id="Btn" title="Go to top">Top</button>  
 </div>
  <br>
@@ -105,6 +108,8 @@ layout: default
 <!--     <p>[Add interpretation here]</p> -->
   </div>
 </div>
+   <br>
+ <br>
 <button onclick="topFunction()" id="Btn" title="Go to top">Top</button>  
 </div>
  <br>
@@ -134,6 +139,7 @@ layout: default
    <iframe src="maps/1_8_referrals_fullDataset.html" style="border:none;" height=260 width=300></iframe>
   </div>
 </div>  
+  
 <button onclick="topFunction()" id="Btn" title="Go to top">Top</button>  
 </div>
   
@@ -173,6 +179,8 @@ layout: default
        <iframe src="maps/3_2_referrals_individualPlan.html" style="border:none;" height=260 width=300></iframe>
   </div>
 </div>
+   <br>
+ <br>
 <button onclick="topFunction()" id="Btn" title="Go to top">Top</button>  
 </div>  
   
@@ -212,6 +220,8 @@ layout: default
        <iframe src="maps/5_2_referrals_dual.html" style="border:none;" height=260 width=300></iframe>
   </div>
 </div>
+   <br>
+ <br>
 <button onclick="topFunction()" id="Btn" title="Go to top">Top</button>  
 </div>  
   
@@ -251,6 +261,8 @@ layout: default
        <iframe src="maps/8_2_referrals_PEEHIP.html" style="border:none;" height=260 width=300></iframe>
   </div>
 </div>
+    <br>
+ <br>
 <button onclick="topFunction()" id="Btn" title="Go to top">Top</button>   
 </div>  
   
@@ -290,6 +302,8 @@ layout: default
        <iframe src="maps/10_2_referrals_NCSHP.html" style="border:none;" height=260 width=300></iframe>
   </div>
 </div>
+    <br>
+ <br>
 <button onclick="topFunction()" id="Btn" title="Go to top">Top</button>   
 </div>  
   
@@ -310,7 +324,8 @@ layout: default
        <iframe src="charts/1_2_IHWA_income.html" style="border:none;" height=260 width=300></iframe>
   </div>
   </div>
-
+ <br>
+ <br>
 <button onclick="topFunction()" id="Btn" title="Go to top">Top</button>   
 </div>  
   
@@ -362,7 +377,8 @@ layout: default
        <iframe src="charts/2_4_IHWA_raceUMC.html" style="border:none;" height=260 width=300></iframe>
   </div>
   </div>
-
+ <br>
+ <br>
 <button onclick="topFunction()" id="Btn" title="Go to top">Top</button>   
 </div>  
   
@@ -415,7 +431,8 @@ layout: default
        <iframe src="charts/3_4_IHWA_ageUMC.html" style="border:none;" height=260 width=300></iframe>
   </div>
   </div>
-
+ <br>
+ <br>
 <button onclick="topFunction()" id="Btn" title="Go to top">Top</button>   
 </div>  
   
