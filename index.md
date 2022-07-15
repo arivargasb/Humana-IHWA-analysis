@@ -145,6 +145,8 @@ The Southeast region has a considerably higher proportion of members in a group 
    <br>
    <br>
      <br>
+     <br>
+     <br>
   </p>
   </div>
 </div> 
@@ -176,8 +178,8 @@ In terms of priority of outreach, those regions with the lowest proportion of SN
   <p style="font-size:75%; margin: 10px;">
  <br>
  <br>
- <br>  
-   <br> 
+
+
 Those regions with the highest proportion of members answering the phone, and scheduling/completing an IHWA are the Central, Gulf State Signify and Florida regions. The Desert Pacific, North Central Matrix, and Texas regions, on the other hand have the lowest proportions of members following through IHWA.
  <br>   
 Among those members who received a referral, those regions located both in the East Coast as well as in the West Coast have the largest proportion of members with a successful referral.
@@ -237,7 +239,6 @@ Among those members who received a referral, those regions located both in the E
        <iframe src="maps/3_2_referrals_individualPlan.html" style="border:2px solid gray;" height=260 width=260></iframe>
   </div>
 </div>
-  <br>
  <br>   
   <p style="font-size:75%; margin: 10px;">
  The type of plan coverage doesn’t seem to have effect the IHWA indicators or the proportion of members with successful referrals.
@@ -283,9 +284,10 @@ Among those members who received a referral, those regions located both in the E
        <iframe src="maps/5_2_referrals_dual.html" style="border:2px solid gray;" height=260 width=260></iframe>
   </div>
 </div>
+   <br>
+
    <p style="font-size:75%; margin: 10px;">
-  <br>
- <br>  
+
 Analyzing SNP and dual eligible members' behavior we can see that among these members the Central, Mid-South, Gulf State Signify, and Florida regions have a higher proportion of people scheduling and completing an IHWA.
   </p> 
  <br>
@@ -364,11 +366,11 @@ Analyzing SNP and dual eligible members' behavior we can see that among these me
 <div class="row">
   <div class="column">
     <h3><b><i><small>IHWA indicators</small></i></b></h3>
-   <iframe src="maps/10_1_IHWA_NCSHP.html" style="border:2px solid gray;" height=290 width=260></iframe>
+   <iframe src="maps/10_1_IHWA_NCSHP.html" style="border:2px solid gray;" height=260 width=260></iframe>
   </div>
   <div class="column">
     <h3><b><i><small>Referrals</small></i></b></h3>
-       <iframe src="maps/10_2_referrals_NCSHP.html" style="border:2px solid gray;" height=290 width=260></iframe>
+       <iframe src="maps/10_2_referrals_NCSHP.html" style="border:2px solid gray;" height=260 width=260></iframe>
   </div>
 </div>
       <br>
@@ -395,19 +397,18 @@ Analyzing SNP and dual eligible members' behavior we can see that among these me
 <div class="row">
   <div class="column">
     <h3><b><i><small>By Race</small></i></b></h3>
-   <iframe src="charts/1_1_IHWA_race.jpg" style="border:2px solid gray;" height=290 width=260></iframe>
+   <iframe src="charts/1_1_IHWA_race.jpg" style="border:2px solid gray;" height=290 width=290></iframe>
   </div>
   <div class="column">
     <h3><b><i><small>By Income</small></i></b></h3>
-       <iframe src="charts/1_2_IHWA_income.jpg" style="border:2px solid gray;" height=290 width=260></iframe>
+       <iframe src="charts/1_2_IHWA_income.jpg" style="border:2px solid gray;" height=290 width=290></iframe>
   </div>
   </div>
+ 
+  <br>
+ <br>
+ <br>
     <p style="font-size:75%; margin: 10px;">
-  </div>
-   </div>
-  </div>
-    </div>
-  </div>
 Black members have the highest probability of scheduling and completing an IHWA, and these probabilities are lower for Asian members. AIAN members, on the other hand, are more prone to having a successful referral.
     <br>
 In terms of income, members with the highest income level have a greater chance of answering the phone, but members in the lowest income categories have a greater likelihood of scheduling and completing an IHWA. On the other hand, a greater proportion of members in the Upper Middle-Class have a successful referral.
@@ -443,11 +444,11 @@ In terms of income, members with the highest income level have a greater chance 
 <div class="row">
   <div class="column">
     <h3><b><i><small>Poor and Near Poor</small></i></b></h3>
-   <iframe src="charts/2_1_IHWA_racePNP.jpg" style="border:2px solid gray;" height=290 width=260></iframe>
+   <iframe src="charts/2_1_IHWA_racePNP.jpg" style="border:2px solid gray;" height=290 width=290></iframe>
   </div>
   <div class="column">
     <h3><b><i><small>Low Midle-Class</small></i></b></h3>
-       <iframe src="charts/2_2_IHWA_raceLMC.jpg" style="border:2px solid gray;" height=290 width=260></iframe>
+       <iframe src="charts/2_2_IHWA_raceLMC.jpg" style="border:2px solid gray;" height=290 width=290></iframe>
   </div>
   </div>
    <br>
@@ -455,11 +456,11 @@ In terms of income, members with the highest income level have a greater chance 
   <div class="row">
   <div class="column">
     <h3><b><i><small>Middle Middle-Class</small></i></b></h3>
-   <iframe src="charts/2_3_IHWA_raceMMC.jpg" style="border:2px solid gray;" height=290 width=260></iframe>
+   <iframe src="charts/2_3_IHWA_raceMMC.jpg" style="border:2px solid gray;" height=290 width=290></iframe>
   </div>
   <div class="column">
     <h3><b><i><small>Upper Middle-Class</small></i></b></h3>
-       <iframe src="charts/2_4_IHWA_raceUMC.jpg" style="border:2px solid gray;" height=290 width=260></iframe>
+       <iframe src="charts/2_4_IHWA_raceUMC.jpg" style="border:2px solid gray;" height=290 width=290></iframe>
   </div>
   </div>
     <p style="font-size:75%; margin: 10px;">
@@ -496,11 +497,11 @@ Looking at the IHWA indicators for each income level separately, the trends in b
 <div class="row">
   <div class="column">
     <h3><b><i><small>Poor and Near Poor</small></i></b></h3>
-   <iframe src="charts/3_1_IHWA_agePNP.jpg" style="border:2px solid gray;" height=290 width=260></iframe>
+   <iframe src="charts/3_1_IHWA_agePNP.jpg" style="border:2px solid gray;" height=290 width=290></iframe>
   </div>
   <div class="column">
     <h3><b><i><small>Low Midle-Class</small></i></b></h3>
-       <iframe src="charts/3_2_IHWA_ageLMC.jpg" style="border:2px solid gray;" height=290 width=260></iframe>
+       <iframe src="charts/3_2_IHWA_ageLMC.jpg" style="border:2px solid gray;" height=290 width=290></iframe>
   </div>
   </div>
  <br>
@@ -508,16 +509,16 @@ Looking at the IHWA indicators for each income level separately, the trends in b
   <div class="row">
   <div class="column">
     <h3><b><i><small>Middle Middle-Class</small></i></b></h3>
-   <iframe src="charts/3_3_IHWA_ageMMC.jpg" style="border:2px solid gray;" height=290 width=260></iframe>
+   <iframe src="charts/3_3_IHWA_ageMMC.jpg" style="border:2px solid gray;" height=290 width=290></iframe>
   </div>
   <div class="column">   
     <h3><b><i><small>Upper Middle-Class</small></i></b></h3>
-       <iframe src="charts/3_4_IHWA_ageUMC.jpg" style="border:2px solid gray;" height=290 width=260></iframe>
+       <iframe src="charts/3_4_IHWA_ageUMC.jpg" style="border:2px solid gray;" height=290 width=290></iframe>
   </div>
-   </div>
-  </div>
-    </div>
-  </div>
+     </div>
+ <br>
+ <br>
+ <br>
      <p style="font-size:75%; margin: 10px;">
 As age increases, members are more likely to answer the phone. But in terms of scheduling and completing an IHWA, the youngest group of members as well as those who are more than 80 years of age have a higher probability of following through. This behavior is similar across all income levels.
 
