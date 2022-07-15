@@ -2,7 +2,7 @@
 #7d96b0 */
 
 
-#myBtn {
+#Btn {
   display: none;
   position: fixed;
   bottom: 20px;
@@ -18,7 +18,7 @@
   border-radius: 4px;
 }
 
-#myBtn:hover {
+#Btn:hover {
   background-color: #555;
 }
 
