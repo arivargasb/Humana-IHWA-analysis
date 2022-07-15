@@ -67,12 +67,10 @@ layout: default
 
 
 <div class="main" id="1_sociodem_allRegions">
-<br>
-<br>    
+
 <h2><small>Sociodemographics by Medicare Region</small></h2>
- <br>
- <br>      
-<div class="row">
+
+ <div class="row">
   <div class="column">
     <h3><b><i><small>Age</small></i></b></h3>
    <iframe src="maps/1_4_age_fullDataset.html" style="border:2px solid gray;" height=260 width=300 ></iframe>
@@ -85,11 +83,13 @@ layout: default
  <br>
  </div>
    <br>
+ <p style="font-size:80%;">
 The Southeast, Central and Gulf State regions have the largest proportions of members under 65 years of age, while the Desert Pacific, North Central Matrix, Florida and Intermountain regions have the largest proportions of members with more than 65 years of age.
    <br>
     <br>
 In termf or race/ethnicity, the Intermountain, Central West and North Central regions have the highest presence of American Indian and Alaska Native (AIAN) members; the Desert Pacific North Central Signify and Northeast regions serve a higher proportion of Asian Pacific Americans (API) members; Desert Pacific, Central West and Texas regions have a higher share of members who identify as Hispanic; and the proportion of members who identify as Black is higher in the Gulf-State Matrix, Signify and Southeast regions.
    <br>
+  </p>
 <button onclick="topFunction()" id="Btn" title="Go to top">Top</button>  
 </div>
  <br>
