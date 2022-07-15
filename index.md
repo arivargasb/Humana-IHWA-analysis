@@ -176,7 +176,8 @@ In terms of priority of outreach, those regions with the lowest proportion of SN
   <p style="font-size:75%; margin: 10px;">
  <br>
  <br>
- <br>     
+ <br>  
+   <br> 
 Those regions with the highest proportion of members answering the phone, and scheduling/completing an IHWA are the Central, Gulf State Signify and Florida regions. The Desert Pacific, North Central Matrix, and Texas regions, on the other hand have the lowest proportions of members following through IHWA.
  <br>   
 Among those members who received a referral, those regions located both in the East Coast as well as in the West Coast have the largest proportion of members with a successful referral.
