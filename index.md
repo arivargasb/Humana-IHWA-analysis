@@ -144,16 +144,14 @@ The Southeast region has a considerably higher proportion of members in a group 
    <br>
    <br>
    <br>
+     <br>
   </p>
   </div>
 </div> 
   <p style="font-size:75%; margin: 10px;">
 In terms of priority of outreach, those regions with the lowest proportion of SNP and/or dual eligible are also those with a lower IHAP level. And the Desert Pacific as well as the region in the southeastern part of the country have a larger share of both medium and high IHAP members.
-  </p>
- 
+  </p> 
  <br>
- <br>
- 
 <button onclick="topFunction()" id="Btn" title="Go to top">Top</button>  
 </div>
  <br>
@@ -176,6 +174,9 @@ In terms of priority of outreach, those regions with the lowest proportion of SN
   </div>
   <div class="column">
   <p style="font-size:75%; margin: 10px;">
+ <br>
+ <br>
+ <br>     
 Those regions with the highest proportion of members answering the phone, and scheduling/completing an IHWA are the Central, Gulf State Signify and Florida regions. The Desert Pacific, North Central Matrix, and Texas regions, on the other hand have the lowest proportions of members following through IHWA.
  <br>   
 Among those members who received a referral, those regions located both in the East Coast as well as in the West Coast have the largest proportion of members with a successful referral.
@@ -235,12 +236,12 @@ Among those members who received a referral, those regions located both in the E
        <iframe src="maps/3_2_referrals_individualPlan.html" style="border:2px solid gray;" height=260 width=260></iframe>
   </div>
 </div>
- 
+  <br>
+ <br>   
   <p style="font-size:75%; margin: 10px;">
  The type of plan coverage doesn’t seem to have effect the IHWA indicators or the proportion of members with successful referrals.
   </p> 
  
-   <br>
  <br>
 <button onclick="topFunction()" id="Btn" title="Go to top">Top</button>  
 </div>  
@@ -282,9 +283,10 @@ Among those members who received a referral, those regions located both in the E
   </div>
 </div>
    <p style="font-size:75%; margin: 10px;">
+  <br>
+ <br>  
 Analyzing SNP and dual eligible members' behavior we can see that among these members the Central, Mid-South, Gulf State Signify, and Florida regions have a higher proportion of people scheduling and completing an IHWA.
   </p> 
-   <br>
  <br>
 <button onclick="topFunction()" id="Btn" title="Go to top">Top</button>  
 </div>  
@@ -400,6 +402,11 @@ Analyzing SNP and dual eligible members' behavior we can see that among these me
   </div>
   </div>
     <p style="font-size:75%; margin: 10px;">
+  </div>
+   </div>
+  </div>
+    </div>
+  </div>
 Black members have the highest probability of scheduling and completing an IHWA, and these probabilities are lower for Asian members. AIAN members, on the other hand, are more prone to having a successful referral.
     <br>
 In terms of income, members with the highest income level have a greater chance of answering the phone, but members in the lowest income categories have a greater likelihood of scheduling and completing an IHWA. On the other hand, a greater proportion of members in the Upper Middle-Class have a successful referral.
@@ -455,6 +462,11 @@ In terms of income, members with the highest income level have a greater chance 
   </div>
   </div>
     <p style="font-size:75%; margin: 10px;">
+  </div>
+   </div>
+  </div>
+    </div>
+  </div>
 Looking at the IHWA indicators for each income level separately, the trends in behavior by race don’t seem to change across income levels.
   </p> 
  <br>
@@ -501,6 +513,9 @@ Looking at the IHWA indicators for each income level separately, the trends in b
     <h3><b><i><small>Upper Middle-Class</small></i></b></h3>
        <iframe src="charts/3_4_IHWA_ageUMC.jpg" style="border:2px solid gray;" height=290 width=260></iframe>
   </div>
+   </div>
+  </div>
+    </div>
   </div>
      <p style="font-size:75%; margin: 10px;">
 As age increases, members are more likely to answer the phone. But in terms of scheduling and completing an IHWA, the youngest group of members as well as those who are more than 80 years of age have a higher probability of following through. This behavior is similar across all income levels.
