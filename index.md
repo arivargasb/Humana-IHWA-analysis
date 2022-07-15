@@ -12,26 +12,50 @@ layout: default
   <h1><em><center>IHWA Analysis</center></em></h1>          
 </div>
  
-<div class="navbar">  
-<div class="dropdown">
-  <button class="dropbtn">Menu
-   <i class="fa fa-caret-down"></i>
-    </button>
-  <div class="dropdown-content">
-<ul id="nav">    
-  <a href="#section1">Tye of Coverage & Eligibility by Medicare Region</a>
-  <a>IHWA by Medicare Region</a>   
-  <ul>
-      <li><a href="#section2_all">All Members</a></li>
-      <li><a href="#section2_coverage">And Type of Coverage</a></li>
-      <li><a href="#section2_eligibility">And Eligibility</a></li>    
-      <li><a href="#section2_plan">And Type of Plan</a></li>        
-  </ul>  
-  <li><a href="#section3">IHWA by Sociodemographic</a></li>
-</ul>
-</div>
-</div>
-</div>
+<nav>
+  <ul id="main">
+    <li>All Members by Region
+          <ul class="drop">
+        <div>
+        <li>Sociodemographics</li>
+        <li>Coverage & Eligibility</li>
+        <li>IHWA & Referrals</li>
+        </div>
+        </li>
+      </ul>
+    <li>Type of Membership & Region
+   <ul class="drop">
+        <div>
+        <li>By Coverage</li>
+        <li>By Eligibility</li>
+        </div>
+        </li>
+      </ul>      
+    <li>Plan & Region
+      <ul class="drop">
+        <div>
+        <li>WVPEIA & PEEHIP</li>
+        <li>PBUCC & NCSHP</li>
+        </div>
+        </li>
+      </ul>
+    </li>
+    <li>IHWA Indicators: All Members
+       <ul class="drop">
+        <div>
+        <li>By Race/Income</li>
+        <li>By Race and Each Income Level</li>
+         <li>By age and Each Income Level</li>
+        </div>
+        </li>
+      </ul>
+    </li>
+    <div id="marker"></div>
+  </ul>
+</nav>
+
+
+
 
 <br>
  <br>
