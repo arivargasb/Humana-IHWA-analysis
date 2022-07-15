@@ -5,56 +5,50 @@ layout: default
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 
- <div>
 <div id="title">
   <img src="images/humanaLogo2.png">
  <br>
   <h1 style="color:#76c8c8"><em><center>IHWA Analysis</center></em></h1>          
-</div>
  
 <nav>
-  <ul id="main">
-    <li>All Members by Region
-          <ul class="drop">
-        <div>
-        <li>Sociodemographics</li>
-        <li>Coverage & Eligibility</li>
-        <li>IHWA & Referrals</li>
-        </div>
-        </li>
+  <div class="row">
+  <div class="column">
+    <p><b>1. All Members by Region</b>
+       <ul>
+        <li><a href="#1_sociodem_allRegions">Sociodemographics</a></li>
+        <li><a href="#2_memberType_allRegions">Coverage & Eligibility</a></li>
+        <li><a href="#3_ihwa_fullDataset">IHWA & Referrals</a></li>
       </ul>
-    <li>Type of Membership & Region
-   <ul class="drop">
-        <div>
-        <li>By Coverage</li>
-        <li>By Eligibility</li>
-        </div>
-        </li>
-      </ul>      
-    <li>Plan & Region
-      <ul class="drop">
-        <div>
-        <li>WVPEIA & PEEHIP</li>
-        <li>PBUCC & NCSHP</li>
-        </div>
-        </li>
+     </div>
+     <div class="column">
+  <b>2. Type of Membership & Region</b>
+   <ul>
+        <li><a href="#4_coverage">By Coverage</a></li>
+        <li><a href="#5_eligibility">By Eligibility</a></li>
+   </ul>      
+   </div>   
+    </div>  
+   <div class="row">
+  <div class="column">
+    <b>3. Plan & Region</b>
+      <ul>
+        <li><a href="#6_plans1">WVPEIA & PEEHIP</a></li>
+        <li><a href="#7_plans2">PBUCC & NCSHP</a></li>
       </ul>
-    </li>
-    <li>IHWA Indicators: All Members
-       <ul class="drop">
-        <div>
-        <li>By Race/Income</li>
-        <li>By Race and Each Income Level</li>
-         <li>By age and Each Income Level</li>
-        </div>
-        </li>
+      </div>
+      <div class="column">
+    <b>4. IHWA Indicators: All Members</b>
+       <ul>
+        <li><a href="#8_allMembers">By Race & Income</li>
+        <li><a href="#9_incomeRace">By Race per Each Income Level</a></li>
+         <li><a href="#10_incomeAge">By Age per Each Income Level</a></li>
       </ul>
-    </li>
-    <div id="marker"></div>
-  </ul>
+    </div>
+    </div>
+
 </nav>
 
-
+</div>
 
 
 <br>
@@ -69,7 +63,7 @@ layout: default
 <div class="main" id="1_sociodem_allRegions">
  <br>
   <br>
-<h2><small>Sociodemographics by Medicare Region</small></h2>
+<h2 style="color:#76c8c8"><small>Sociodemographics by Medicare Region</small></h2>
 
  <div class="row">
   <div class="column">
@@ -114,7 +108,7 @@ In terms or race/ethnicity, the Intermountain, Central West and North Central re
  <br>
   
 <div class="main" id="2_memberType_allRegions">
-<h2><small>Type of Coverage and Eligibility by Medicare Region</small></h2>
+<h2 style="color:#76c8c8"><small>Type of Coverage and Eligibility by Medicare Region</small></h2>
     
 <div class="row">
   <div class="column">
@@ -123,7 +117,6 @@ In terms or race/ethnicity, the Intermountain, Central West and North Central re
   </div>
   <div class="column">
     <h3><b><i><small>Type of Coverage</small></i></b></h3>
-       <iframe src="maps/1_3_PlanType_fullDataset.html" style="border:2px solid gray;" height=260 width=260></iframe>
   </div>
 </div>
 
@@ -168,7 +161,7 @@ In terms of priority of outreach, those regions with the lowest proportion of SN
  <br>  
 
 <div class="main" id="3_ihwa_fullDataset">
-<h2><small>IHWA & Referrals by Medicare Region</small></h2>
+<h2 style="color:#76c8c8"><small>IHWA & Referrals by Medicare Region</small></h2>
  <div class="row">
   <div class="column">
  <h3><b><i><small>IHWA indicators</small></i></b></h3>
@@ -215,7 +208,7 @@ Among those members who received a referral, those regions located both in the E
  <br>  
   
 <div class="main" id="4_coverage">
-<h2><small>Members in a Group Plan</small></h2>
+<h2 style="color:#76c8c8"><small>Members in a Group Plan</small></h2>
 <div class="row">
   <div class="column">
     <h3><b><i><small>IHWA indicators</small></i></b></h3>
@@ -228,7 +221,7 @@ Among those members who received a referral, those regions located both in the E
    </div>
  <br>
   
-<h2><small>Members in an Individual Plan</small></h2>
+<h2 style="color:#76c8c8"><small>Members in an Individual Plan</small></h2>
 <div class="row">
   <div class="column">
     <h3><b><i><small>IHWA indicators</small></i></b></h3>
@@ -260,7 +253,7 @@ Among those members who received a referral, those regions located both in the E
  <br>  
      
 <div class="main" id="5_eligibility">
-<h2><small>SNP members</small></h2>
+<h2 style="color:#76c8c8"><small>SNP members</small></h2>
 <div class="row">
   <div class="column">
     <h3><b><i><small>IHWA indicators</small></i></b></h3>
@@ -273,7 +266,7 @@ Among those members who received a referral, those regions located both in the E
    </div>
  <br>
   
-<h2><small>Dual eligible members</small></h2>
+<h2 style="color:#76c8c8"><small>Dual eligible members</small></h2>
 <div class="row">
   <div class="column">
     <h3><b><i><small>IHWA indicators</small></i></b></h3>
@@ -306,7 +299,7 @@ Analyzing SNP and dual eligible members' behavior we can see that among these me
  <br>    
   
  <div class="main" id="6_plans1">
-<h2><small>WVPEIA members</small></h2>
+<h2 style="color:#76c8c8"><small>WVPEIA members</small></h2>
 <div class="row">
   <div class="column">
     <h3><b><i><small>IHWA indicators</small></i></b></h3>
@@ -319,7 +312,7 @@ Analyzing SNP and dual eligible members' behavior we can see that among these me
    </div>
  <br>
   
-<h2><small>PEEHIP members</small></h2>
+<h2 style="color:#76c8c8"><small>PEEHIP members</small></h2>
 <div class="row">
   <div class="column">
     <h3><b><i><small>IHWA indicators</small></i></b></h3>
@@ -349,7 +342,7 @@ Analyzing SNP and dual eligible members' behavior we can see that among these me
  <br>    
   
  <div class="main" id="7_plans2">
-<h2><small>PBUCC members</small></h2>
+<h2 style="color:#76c8c8"><small>PBUCC members</small></h2>
 <div class="row">
   <div class="column">
     <h3><b><i><small>IHWA indicators</small></i></b></h3>
@@ -362,7 +355,7 @@ Analyzing SNP and dual eligible members' behavior we can see that among these me
    </div>
  <br>
   
-<h2><small>NCSHP members</small></h2>
+<h2 style="color:#76c8c8"><small>NCSHP members</small></h2>
 <div class="row">
   <div class="column">
     <h3><b><i><small>IHWA indicators</small></i></b></h3>
@@ -392,16 +385,16 @@ Analyzing SNP and dual eligible members' behavior we can see that among these me
   
 <div class="main" id="8_allMembers">
     
-<h2><small>IHWA Indicators - All Members</small></h2>
+<h2 style="color:#76c8c8"><small>IHWA Indicators - All Members</small></h2>
 
 <div class="row">
   <div class="column">
     <h3><b><i><small>By Race</small></i></b></h3>
-   <iframe src="charts/1_1_IHWA_race.jpg" style="border:2px solid gray;" height=290 width=290></iframe>
+   <iframe src="charts/1_1_IHWA_race.jpg" style="border:2px solid gray;" height=290 width=270></iframe>
   </div>
   <div class="column">
     <h3><b><i><small>By Income</small></i></b></h3>
-       <iframe src="charts/1_2_IHWA_income.jpg" style="border:2px solid gray;" height=290 width=290></iframe>
+       <iframe src="charts/1_2_IHWA_income.jpg" style="border:2px solid gray;" height=290 width=270></iframe>
   </div>
   </div>
  
@@ -439,16 +432,16 @@ In terms of income, members with the highest income level have a greater chance 
 
 <div class="main" id="9_incomeRace">
 
-<h2><small>IHWA Indicators - By Race & Income</small></h2>
+<h2 style="color:#76c8c8"><small>IHWA Indicators - By Race & Income</small></h2>
 
 <div class="row">
   <div class="column">
     <h3><b><i><small>Poor and Near Poor</small></i></b></h3>
-   <iframe src="charts/2_1_IHWA_racePNP.jpg" style="border:2px solid gray;" height=290 width=290></iframe>
+   <iframe src="charts/2_1_IHWA_racePNP.jpg" style="border:2px solid gray;" height=290 width=270></iframe>
   </div>
   <div class="column">
     <h3><b><i><small>Low Midle-Class</small></i></b></h3>
-       <iframe src="charts/2_2_IHWA_raceLMC.jpg" style="border:2px solid gray;" height=290 width=290></iframe>
+       <iframe src="charts/2_2_IHWA_raceLMC.jpg" style="border:2px solid gray;" height=290 width=270></iframe>
   </div>
   </div>
    <br>
@@ -456,11 +449,11 @@ In terms of income, members with the highest income level have a greater chance 
   <div class="row">
   <div class="column">
     <h3><b><i><small>Middle Middle-Class</small></i></b></h3>
-   <iframe src="charts/2_3_IHWA_raceMMC.jpg" style="border:2px solid gray;" height=290 width=290></iframe>
+   <iframe src="charts/2_3_IHWA_raceMMC.jpg" style="border:2px solid gray;" height=290 width=270></iframe>
   </div>
   <div class="column">
     <h3><b><i><small>Upper Middle-Class</small></i></b></h3>
-       <iframe src="charts/2_4_IHWA_raceUMC.jpg" style="border:2px solid gray;" height=290 width=290></iframe>
+       <iframe src="charts/2_4_IHWA_raceUMC.jpg" style="border:2px solid gray;" height=290 width=270></iframe>
   </div>
   </div>
     <p style="font-size:75%; margin: 10px;">
@@ -488,16 +481,16 @@ Looking at the IHWA indicators for each income level separately, the trends in b
 <div class="main" id="10_incomeAge">
 <br>
 <br>      
-<h2><small>IHWA Indicators - By Age & Income</small></h2>
+<h2 style="color:#76c8c8"><small>IHWA Indicators - By Age & Income</small></h2>
  
 <div class="row">
   <div class="column">
     <h3><b><i><small>Poor and Near Poor</small></i></b></h3>
-   <iframe src="charts/3_1_IHWA_agePNP.jpg" style="border:2px solid gray;" height=290 width=290></iframe>
+   <iframe src="charts/3_1_IHWA_agePNP.jpg" style="border:2px solid gray;" height=290 width=270></iframe>
   </div>
   <div class="column">
     <h3><b><i><small>Low Midle-Class</small></i></b></h3>
-       <iframe src="charts/3_2_IHWA_ageLMC.jpg" style="border:2px solid gray;" height=290 width=290></iframe>
+       <iframe src="charts/3_2_IHWA_ageLMC.jpg" style="border:2px solid gray;" height=290 width=270></iframe>
   </div>
   </div>
  <br>
@@ -505,11 +498,11 @@ Looking at the IHWA indicators for each income level separately, the trends in b
   <div class="row">
   <div class="column">
     <h3><b><i><small>Middle Middle-Class</small></i></b></h3>
-   <iframe src="charts/3_3_IHWA_ageMMC.jpg" style="border:2px solid gray;" height=290 width=290></iframe>
+   <iframe src="charts/3_3_IHWA_ageMMC.jpg" style="border:2px solid gray;" height=290 width=270></iframe>
   </div>
   <div class="column">   
     <h3><b><i><small>Upper Middle-Class</small></i></b></h3>
-       <iframe src="charts/3_4_IHWA_ageUMC.jpg" style="border:2px solid gray;" height=290 width=290></iframe>
+       <iframe src="charts/3_4_IHWA_ageUMC.jpg" style="border:2px solid gray;" height=290 width=270></iframe>
   </div>
      </div>
  <br>
@@ -546,7 +539,7 @@ As age increases, members are more likely to answer the phone. But in terms of s
  <br>
  <br>        
 
-   </div>
+
   <a href="#" class="top"></a>
   
   
