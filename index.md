@@ -59,6 +59,7 @@ layout: default
   </div>
   <br>
  <br>
+ </div>
 <button onclick="topFunction()" id="Btn" title="Go to top">Top</button>  
 </div>
  <br>
