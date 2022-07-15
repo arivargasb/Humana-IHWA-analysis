@@ -231,7 +231,7 @@ layout: default
   </div>
   <div class="column">
     <h3><b><i><small>Referrals</small></i></b></h3>
-       <iframe src="maps/7_1_referrals_WVPEIA.html" style="border:none;" height=260 width=300></iframe>
+       <iframe src="maps/7_2_referrals_WVPEIA.html" style="border:none;" height=260 width=300></iframe>
   </div>
    </div>
  <br>
@@ -244,7 +244,7 @@ layout: default
   </div>
   <div class="column">
     <h3><b><i><small>Referrals</small></i></b></h3>
-       <iframe src="maps/8_1_referrals_PEEHIP.html" style="border:none;" height=260 width=300></iframe>
+       <iframe src="maps/8_2_referrals_PEEHIP.html" style="border:none;" height=260 width=300></iframe>
   </div>
 </div>
 </div>  
@@ -269,7 +269,7 @@ layout: default
   </div>
   <div class="column">
     <h3><b><i><small>Referrals</small></i></b></h3>
-       <iframe src="maps/9_1_referrals_PBUCC.html" style="border:none;" height=260 width=300></iframe>
+       <iframe src="maps/9_2_referrals_PBUCC.html" style="border:none;" height=260 width=300></iframe>
   </div>
    </div>
  <br>
@@ -282,7 +282,7 @@ layout: default
   </div>
   <div class="column">
     <h3><b><i><small>Referrals</small></i></b></h3>
-       <iframe src="maps/10_1_referrals_NCSHP.html" style="border:none;" height=260 width=300></iframe>
+       <iframe src="maps/10_2_referrals_NCSHP.html" style="border:none;" height=260 width=300></iframe>
   </div>
 </div>
 </div>  
