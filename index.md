@@ -75,14 +75,11 @@ layout: default
 <div class="row">
   <div class="column">
     <h3><b><i><small>Age</small></i></b></h3>
-   <iframe src="maps/1_4_age_fullDataset.html" style="border:none;" height=260 width=300></iframe>
+   <iframe src="maps/1_4_age_fullDataset.html" style="border:2px solid gray;" height=260 width=300 ></iframe>
   </div>
- <div class="column">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
- </div>
   <div class="column">
     <h3><b><i><small>Race/Ethnicity</small></i></b></h3>
-       <iframe src="maps/1_5_race_fullDataset.html" style="border:none;" height=260 width=300></iframe>
+       <iframe src="maps/1_5_race_fullDataset.html" style="border:2px solid gray;" height=260 width=300></iframe>
   </div>
   <br>
  <br>
