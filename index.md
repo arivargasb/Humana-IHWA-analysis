@@ -290,7 +290,7 @@ layout: default
        <iframe src="maps/10_2_referrals_NCSHP.html" style="border:none;" height=260 width=300></iframe>
   </div>
 </div>
-<button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>   
+<button onclick="topFunction()" id="Btn" title="Go to top">Top</button>   
 </div>  
 
 
