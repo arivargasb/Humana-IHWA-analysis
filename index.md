@@ -119,24 +119,24 @@ In terms or race/ethnicity, the Intermountain, Central West and North Central re
 <div class="row">
   <div class="column">
     <h3><b><i><small>Eligibility</small></i></b></h3>
-   <iframe src="maps/1_2_MembershipType_fullDataset.html" style="border:2px solid gray;" height=260 width=300></iframe>
+   <iframe src="maps/1_2_MembershipType_fullDataset.html" style="border:2px solid gray;" height=260 width=260></iframe>
   </div>
   <div class="column">
     <h3><b><i><small>Type of Coverage</small></i></b></h3>
-       <iframe src="maps/1_3_PlanType_fullDataset.html" style="border:2px solid gray;" height=260 width=300></iframe>
+       <iframe src="maps/1_3_PlanType_fullDataset.html" style="border:2px solid gray;" height=260 width=260></iframe>
   </div>
 </div>
 
 <div class="row">
   <div class="column">
     <h3><b><i><small>IHAP Levels</small></i></b></h3>
-   <iframe src="maps/1_1_IHAPlevel_fullDataset.html" style="border:2px solid gray;" height=260 width=300></iframe>
+   <iframe src="maps/1_1_IHAPlevel_fullDataset.html" style="border:2px solid gray;" height=260 width=260></iframe>
   </div>
   <div class="column">
  <br>
  <br>
 
- <p style="font-size:70%; margin: 10px;">
+ <p style="font-size:75%; margin: 10px;">
 SNP and/or Dual eligible members tend to be better represented in the Northeast, Southeast, and both Gulf-State Signify and Matrix regions. The southeastern regions also have a higher presence of Black members, and people of color are more likely to be dual-eligible. However, those regions with a higher presence of elderly members don’t show a higher proportion of SNP members.
  <br>
 The Southeastern region has a considerably higher proportion of members in a group plan. On the other hand, almost all members in the Intermountain, Texas, and Gulf-State Matrix regions are in an individual plan.
@@ -145,12 +145,9 @@ The Southeastern region has a considerably higher proportion of members in a gro
   </p>
    
   </div>
-</div>
- <br>
- <br>
- 
+</div> 
   <p style="font-size:75%; margin: 10px;">
-In terms of priority to outreach, those regions with the lowest proportion of SNP and/or dual eligible are also those with a lower IHAP level. And the southeastern as well as the Desert Pacific regions have a larger share of both medium and high IHAP members.
+In terms of priority to outreach, those regions with the lowest proportion of SNP and/or dual eligible are also those with a lower IHAP level. And both the southeastern as well as the Desert Pacific regions have a larger share of both medium and high IHAP members.
   </p>
  
  <br>
@@ -172,17 +169,17 @@ In terms of priority to outreach, those regions with the lowest proportion of SN
 <div class="main" id="3_ihwa_fullDataset">
 <h2><small>IHWA & Referrals by Medicare Region</small></h2>
     <h3><b><i><small>IHWA indicators</small></i></b></h3>
-   <iframe src="maps/1_6_IHWA_fullDataset.html" style="border:2px solid gray;" height=260 width=300></iframe>
+   <iframe src="maps/1_6_IHWA_fullDataset.html" style="border:2px solid gray;" height=260 width=260></iframe>
   
 <div class="row">
  <br>    
     <h3><b><i><small><center>Types of Referrals</center></small></i></b></h3>
   <div class="column">
-   <iframe src="maps/1_7_referrals_fullDataset.html" style="border:2px solid gray;" height=260 width=300></iframe>
+   <iframe src="maps/1_7_referrals_fullDataset.html" style="border:2px solid gray;" height=260 width=260></iframe>
   </div>
   <div class="column">
 
-   <iframe src="maps/1_8_referrals_fullDataset.html" style="border:2px solid gray;" height=260 width=300></iframe>
+   <iframe src="maps/1_8_referrals_fullDataset.html" style="border:2px solid gray;" height=260 width=260></iframe>
   </div>
 </div>  
   
@@ -205,11 +202,11 @@ In terms of priority to outreach, those regions with the lowest proportion of SN
 <div class="row">
   <div class="column">
     <h3><b><i><small>IHWA indicators</small></i></b></h3>
-   <iframe src="maps/2_1_IHWA_groupPlan.html" style="border:2px solid gray;" height=260 width=300></iframe>
+   <iframe src="maps/2_1_IHWA_groupPlan.html" style="border:2px solid gray;" height=260 width=260></iframe>
   </div>
   <div class="column">
     <h3><b><i><small>Referrals</small></i></b></h3>
-       <iframe src="maps/2_2_referrals_groupPlan.html" style="border:2px solid gray;" height=260 width=300></iframe>
+       <iframe src="maps/2_2_referrals_groupPlan.html" style="border:2px solid gray;" height=260 width=260></iframe>
   </div>
    </div>
  <br>
@@ -218,11 +215,11 @@ In terms of priority to outreach, those regions with the lowest proportion of SN
 <div class="row">
   <div class="column">
     <h3><b><i><small>IHWA indicators</small></i></b></h3>
-   <iframe src="maps/3_1_IHWA_individualPlan.html" style="border:2px solid gray;" height=260 width=300></iframe>
+   <iframe src="maps/3_1_IHWA_individualPlan.html" style="border:2px solid gray;" height=260 width=260></iframe>
   </div>
   <div class="column">
     <h3><b><i><small>Referrals</small></i></b></h3>
-       <iframe src="maps/3_2_referrals_individualPlan.html" style="border:2px solid gray;" height=260 width=300></iframe>
+       <iframe src="maps/3_2_referrals_individualPlan.html" style="border:2px solid gray;" height=260 width=260></iframe>
   </div>
 </div>
    <br>
@@ -246,11 +243,11 @@ In terms of priority to outreach, those regions with the lowest proportion of SN
 <div class="row">
   <div class="column">
     <h3><b><i><small>IHWA indicators</small></i></b></h3>
-   <iframe src="maps/4_1_IHWA_SNP.html" style="border:2px solid gray;" height=260 width=300></iframe>
+   <iframe src="maps/4_1_IHWA_SNP.html" style="border:2px solid gray;" height=260 width=260></iframe>
   </div>
   <div class="column">
     <h3><b><i><small>Referrals</small></i></b></h3>
-       <iframe src="maps/4_2_referrals_SNP.html" style="border:2px solid gray;" height=260 width=300></iframe>
+       <iframe src="maps/4_2_referrals_SNP.html" style="border:2px solid gray;" height=260 width=260></iframe>
   </div>
    </div>
  <br>
@@ -259,11 +256,11 @@ In terms of priority to outreach, those regions with the lowest proportion of SN
 <div class="row">
   <div class="column">
     <h3><b><i><small>IHWA indicators</small></i></b></h3>
-   <iframe src="maps/5_1_IHWA_dual.html" style="border:2px solid gray;" height=260 width=300></iframe>
+   <iframe src="maps/5_1_IHWA_dual.html" style="border:2px solid gray;" height=260 width=260></iframe>
   </div>
   <div class="column">
     <h3><b><i><small>Referrals</small></i></b></h3>
-       <iframe src="maps/5_2_referrals_dual.html" style="border:2px solid gray;" height=260 width=300></iframe>
+       <iframe src="maps/5_2_referrals_dual.html" style="border:2px solid gray;" height=260 width=260></iframe>
   </div>
 </div>
    <br>
@@ -287,11 +284,11 @@ In terms of priority to outreach, those regions with the lowest proportion of SN
 <div class="row">
   <div class="column">
     <h3><b><i><small>IHWA indicators</small></i></b></h3>
-   <iframe src="maps/7_1_IHWA_WVPEIA.html" style="border:2px solid gray;" height=260 width=300></iframe>
+   <iframe src="maps/7_1_IHWA_WVPEIA.html" style="border:2px solid gray;" height=260 width=260></iframe>
   </div>
   <div class="column">
     <h3><b><i><small>Referrals</small></i></b></h3>
-       <iframe src="maps/7_2_referrals_WVPEIA.html" style="border:2px solid gray;" height=260 width=300></iframe>
+       <iframe src="maps/7_2_referrals_WVPEIA.html" style="border:2px solid gray;" height=260 width=260></iframe>
   </div>
    </div>
  <br>
@@ -300,11 +297,11 @@ In terms of priority to outreach, those regions with the lowest proportion of SN
 <div class="row">
   <div class="column">
     <h3><b><i><small>IHWA indicators</small></i></b></h3>
-   <iframe src="maps/8_1_IHWA_PEEHIP.html" style="border:2px solid gray;" height=260 width=300></iframe>
+   <iframe src="maps/8_1_IHWA_PEEHIP.html" style="border:2px solid gray;" height=260 width=260></iframe>
   </div>
   <div class="column">
     <h3><b><i><small>Referrals</small></i></b></h3>
-       <iframe src="maps/8_2_referrals_PEEHIP.html" style="border:2px solid gray;" height=260 width=300></iframe>
+       <iframe src="maps/8_2_referrals_PEEHIP.html" style="border:2px solid gray;" height=260 width=260></iframe>
   </div>
 </div>
     <br>
@@ -328,11 +325,11 @@ In terms of priority to outreach, those regions with the lowest proportion of SN
 <div class="row">
   <div class="column">
     <h3><b><i><small>IHWA indicators</small></i></b></h3>
-   <iframe src="maps/9_1_IHWA_PBUCC.html" style="border:2px solid gray;" height=260 width=300></iframe>
+   <iframe src="maps/9_1_IHWA_PBUCC.html" style="border:2px solid gray;" height=260 width=260></iframe>
   </div>
   <div class="column">
     <h3><b><i><small>Referrals</small></i></b></h3>
-       <iframe src="maps/9_2_referrals_PBUCC.html" style="border:2px solid gray;" height=260 width=300></iframe>
+       <iframe src="maps/9_2_referrals_PBUCC.html" style="border:2px solid gray;" height=260 width=260></iframe>
   </div>
    </div>
  <br>
@@ -341,11 +338,11 @@ In terms of priority to outreach, those regions with the lowest proportion of SN
 <div class="row">
   <div class="column">
     <h3><b><i><small>IHWA indicators</small></i></b></h3>
-   <iframe src="maps/10_1_IHWA_NCSHP.html" style="border:2px solid gray;" height=290 width=300></iframe>
+   <iframe src="maps/10_1_IHWA_NCSHP.html" style="border:2px solid gray;" height=290 width=260></iframe>
   </div>
   <div class="column">
     <h3><b><i><small>Referrals</small></i></b></h3>
-       <iframe src="maps/10_2_referrals_NCSHP.html" style="border:2px solid gray;" height=290 width=300></iframe>
+       <iframe src="maps/10_2_referrals_NCSHP.html" style="border:2px solid gray;" height=290 width=260></iframe>
   </div>
 </div>
       <br>
@@ -372,11 +369,11 @@ In terms of priority to outreach, those regions with the lowest proportion of SN
 <div class="row">
   <div class="column">
     <h3><b><i><small>By Race</small></i></b></h3>
-   <iframe src="charts/1_1_IHWA_race.jpg" style="border:2px solid gray;" height=290 width=300></iframe>
+   <iframe src="charts/1_1_IHWA_race.jpg" style="border:2px solid gray;" height=290 width=290></iframe>
   </div>
   <div class="column">
     <h3><b><i><small>By Income</small></i></b></h3>
-       <iframe src="charts/1_2_IHWA_income.jpg" style="border:2px solid gray;" height=290 width=300></iframe>
+       <iframe src="charts/1_2_IHWA_income.jpg" style="border:2px solid gray;" height=290 width=290></iframe>
   </div>
   </div>
  <br>
@@ -410,11 +407,11 @@ In terms of priority to outreach, those regions with the lowest proportion of SN
 <div class="row">
   <div class="column">
     <h3><b><i><small>Poor and Near Poor</small></i></b></h3>
-   <iframe src="charts/2_1_IHWA_racePNP.jpg" style="border:2px solid gray;" height=290 width=300></iframe>
+   <iframe src="charts/2_1_IHWA_racePNP.jpg" style="border:2px solid gray;" height=290 width=290></iframe>
   </div>
   <div class="column">
     <h3><b><i><small>Low Midle-Class</small></i></b></h3>
-       <iframe src="charts/2_2_IHWA_raceLMC.jpg" style="border:2px solid gray;" height=290 width=300></iframe>
+       <iframe src="charts/2_2_IHWA_raceLMC.jpg" style="border:2px solid gray;" height=290 width=290></iframe>
   </div>
   </div>
    <br>
@@ -422,11 +419,11 @@ In terms of priority to outreach, those regions with the lowest proportion of SN
   <div class="row">
   <div class="column">
     <h3><b><i><small>Middle Middle-Class</small></i></b></h3>
-   <iframe src="charts/2_3_IHWA_raceMMC.jpg" style="border:2px solid gray;" height=290 width=300></iframe>
+   <iframe src="charts/2_3_IHWA_raceMMC.jpg" style="border:2px solid gray;" height=290 width=290></iframe>
   </div>
   <div class="column">
     <h3><b><i><small>Upper Middle-Class</small></i></b></h3>
-       <iframe src="charts/2_4_IHWA_raceUMC.jpg" style="border:2px solid gray;" height=290 width=300></iframe>
+       <iframe src="charts/2_4_IHWA_raceUMC.jpg" style="border:2px solid gray;" height=290 width=290></iframe>
   </div>
   </div>
  <br>
@@ -455,11 +452,11 @@ In terms of priority to outreach, those regions with the lowest proportion of SN
 <div class="row">
   <div class="column">
     <h3><b><i><small>Poor and Near Poor</small></i></b></h3>
-   <iframe src="charts/3_1_IHWA_agePNP.jpg" style="border:2px solid gray;" height=290 width=300></iframe>
+   <iframe src="charts/3_1_IHWA_agePNP.jpg" style="border:2px solid gray;" height=290 width=290></iframe>
   </div>
   <div class="column">
     <h3><b><i><small>Low Midle-Class</small></i></b></h3>
-       <iframe src="charts/3_2_IHWA_ageLMC.jpg" style="border:2px solid gray;" height=290 width=300></iframe>
+       <iframe src="charts/3_2_IHWA_ageLMC.jpg" style="border:2px solid gray;" height=290 width=290></iframe>
   </div>
   </div>
  <br>
@@ -467,11 +464,11 @@ In terms of priority to outreach, those regions with the lowest proportion of SN
   <div class="row">
   <div class="column">
     <h3><b><i><small>Middle Middle-Class</small></i></b></h3>
-   <iframe src="charts/3_3_IHWA_ageMMC.jpg" style="border:2px solid gray;" height=290 width=300></iframe>
+   <iframe src="charts/3_3_IHWA_ageMMC.jpg" style="border:2px solid gray;" height=290 width=290></iframe>
   </div>
   <div class="column">   
     <h3><b><i><small>Upper Middle-Class</small></i></b></h3>
-       <iframe src="charts/3_4_IHWA_ageUMC.jpg" style="border:2px solid gray;" height=290 width=300></iframe>
+       <iframe src="charts/3_4_IHWA_ageUMC.jpg" style="border:2px solid gray;" height=290 width=290></iframe>
   </div>
   </div>
  <br>
