@@ -170,6 +170,7 @@ layout: default
   </div>
 </div>
 </div>  
+  
  <br>
  <br>
  <br>
@@ -179,18 +180,42 @@ layout: default
  <br>
  <br>
  <br>
- <br>
- <br>
- <br>
- <br>
- <br>
- <br>
- <br>
- <br>
- <br>
- <br>
+ <br>  
      
+<div class="main" id="5_eligibility">
+<h2><small>SNP members</small></h2>
+<div class="row">
+  <div class="column">
+    <h3><b><i><small>IHWA indicators</small></i></b></h3>
+   <iframe src="maps/4_1_IHWA_SNP.html" style="border:none;" height=260 width=300></iframe>
+  </div>
+  <div class="column">
+    <h3><b><i><small>Referrals</small></i></b></h3>
+       <iframe src="maps/4_2_referrals_SNP.html" style="border:none;" height=260 width=300></iframe>
+  </div>
+   </div>
+ <br>
   
+<h2><small>Dual eligible members</small></h2>
+<div class="row">
+  <div class="column">
+    <h3><b><i><small>IHWA indicators</small></i></b></h3>
+   <iframe src="maps/5_1_IHWA_dual.html" style="border:none;" height=260 width=300></iframe>
+  </div>
+  <div class="column">
+    <h3><b><i><small>Referrals</small></i></b></h3>
+       <iframe src="maps/5_2_referrals_dual.html" style="border:none;" height=260 width=300></iframe>
+  </div>
+</div>
+</div>  
   
-  
-  
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>    
