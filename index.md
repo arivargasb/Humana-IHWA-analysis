@@ -12,7 +12,7 @@ layout: default
  
   <div class="row">
   <div class="column">
-    <p style="color:#769fc8"><b>1. All Members by Region</b></p>
+    <p style="color:#769fc8">1. All Members by Region</p>
        <ul>
         <li><a href="#1_sociodem_allRegions" style="color:#d7d767">Sociodemographics</a></li>
         <li><a href="#2_memberType_allRegions" style="color:#d7d767">Coverage & Eligibility</a></li>
@@ -20,7 +20,7 @@ layout: default
       </ul>
      </div>
      <div class="column">
-   <p style="color:#769fc8"><b>2. Type of Membership & Region</b></p>
+   <p style="color:#769fc8">2. Type of Membership & Region</p>
    <ul>
         <li><a href="#4_coverage" style="color:#d7d767">By Coverage</a></li>
         <li><a href="#5_eligibility" style="color:#d7d767">By Eligibility</a></li>
@@ -29,18 +29,18 @@ layout: default
     </div>  
    <div class="row">
   <div class="column">
-    <p style="color:#769fc8"><b>3. Plan & Region</b></p>
+    <p style="color:#769fc8">3. Plan & Region</p>
       <ul>
         <li><a href="#6_plans1" style="color:#d7d767">WVPEIA & PEEHIP</a></li>
         <li><a href="#7_plans2" style="color:#d7d767">PBUCC & NCSHP</a></li>
       </ul>
       </div>
       <div class="column">
-    <p style="color:#769fc8"><b>4. IHWA Indicators: All Members</b></p>
+    <p style="color:#769fc8">4. IHWA Indicators: All Members</p>
        <ul>
         <li><a href="#8_allMembers" style="color:#d7d767">By Race & Income</a></li>
         <li><a href="#9_incomeRace" style="color:#d7d767">By Race per Each Income Level</a></li>
-         <li><a href="#10_incomeAge style="color:#d7d767"">By Age per Each Income Level</a></li>
+         <li><a href="#10_incomeAge style="color:#d7d767">By Age per Each Income Level</a></li>
       </ul>
     </div>
     </div>
@@ -111,6 +111,7 @@ In terms or race/ethnicity, the Intermountain, Central West and North Central re
   </div>
   <div class="column">
     <h3><b><i><small>Type of Coverage</small></i></b></h3>
+       <iframe src="maps/1_3_PlanType_fullDataset.html" style="border:2px solid gray;" height=260 width=260></iframe>           
   </div>
 </div>
 
@@ -138,6 +139,7 @@ The Southeast region has a considerably higher proportion of members in a group 
   </div>
 </div> 
   <p style="font-size:75%; margin: 10px;">
+  <br>
 In terms of priority of outreach, those regions with the lowest proportion of SNP and/or dual eligible are also those with a lower IHAP level. And the Desert Pacific as well as the region in the southeastern part of the country have a larger share of both medium and high IHAP members.
   </p> 
  <br>
