@@ -45,7 +45,7 @@ layout: default
       </ul>
     </div>
     </div>
-  <div>def</div>
+
 </div>
 
 <br>
