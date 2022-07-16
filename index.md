@@ -40,7 +40,7 @@ layout: default
        <ul>
         <li><a href="#8_allMembers" style="color:#d7d767">By Race & Income</a></li>
         <li><a href="#9_incomeRace" style="color:#d7d767">By Race per Each Income Level</a></li>
-         <li><a href="#10_incomeAge style="color:#d7d767">By Age per Each Income Level</a></li>
+         <li><a href="#10_incomeAge" style="color:#d7d767">By Age per Each Income Level</a></li>
       </ul>
     </div>
     </div>
